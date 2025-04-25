@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
-  "scripts": {	  
+  "scripts": {
     "start": "concurrently \"npm run clean\" \"tsc --watch\" \"nodemon dist/index.js\"",
     "lint": "eslint . --ext .ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "clean": "rimraf dist"
+    "clean": "rimraf dist",
+    "format": "prettier --write ."
   },
   "keywords": [],
   "author": "",
@@ -19,6 +20,7 @@
     "eslint": "^9.25.1",
     "globals": "^16.0.0",
     "nodemon": "^3.1.10",
+    "prettier": "^3.5.3",
     "rimraf": "^6.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3",
