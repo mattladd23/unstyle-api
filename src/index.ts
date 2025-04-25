@@ -1,14 +1,21 @@
 import express, { Request, Response } from "express";
 import dotenv from "dotenv";
+import { callAPI } from "./routes/api";
 
 dotenv.config();
 
 const app = express();
 const port: number = Number(process.env.PORT) || 3000;
-const dummyText: string = "Howay the lasses";
 
 app.get("/", (req: Request, res: Response) => {
-  res.send(`Welcome to Unstyle.io ${dummyText}`);
+  setTimeout(() => {
+    res.redirect("/api");
+  }, 3000)  
+});
+
+app.get("/api", (req: Request, res: Response) => {
+  res.send("Unstyle API");
+  callAPI();
 });
 
 app.listen(port, () => {
