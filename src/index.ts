@@ -1,26 +1,16 @@
-import express from "express";
+import express, { Request, Response } from "express";
+import dotenv from "dotenv";
+
+dotenv.config();
+
 const app = express();
-require("dotenv").config();
-const port = process.env.PORT || 3000;
-const session = require("express-session");
-const dummyText = "Howay the lasses";
+const port: number = Number(process.env.PORT) || 3000;
+const dummyText: string = "Howay the lasses";
 
-app.use(
-  session({
-    secret: process.env.SESSION_SECRET,
-    resave: true,
-    rolling: true,
-    saveUninitialized: false,
-    cookie: {
-      expires: 600000,
-    },
-  }),
-);
-
-app.get("/", (req, res) => {
+app.get("/", (req: Request, res: Response) => {
   res.send(`Welcome to Unstyle.io ${dummyText}`);
 });
 
 app.listen(port, () => {
-  return console.log(`Express is listening at http://localhost:${port}`);
+  console.log(`Express is listening at http://localhost:${port}`);
 });

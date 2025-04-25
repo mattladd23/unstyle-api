@@ -6,7 +6,10 @@
     "moduleResolution": "node",
     "sourceMap": true,
     "strict": true,
-    "outDir": "dist"
+    "outDir": "dist",
+    "typeRoots": ["./node_modules/@types", "./src/types"],
+    "skipLibCheck": true
   },
-  "lib": ["es2015"]
+  "lib": ["es2015"],
+  "include": ["src/**/*.ts"],
 }
