@@ -1,21 +1,11 @@
-import express from "express";
-const app = express();
-require("dotenv").config();
-const port = process.env.PORT || 3000;
-const session = require("express-session");
-const dummyText = "Howay the lasses";
+import express, { Request, Response } from "express";
+import dotenv from "dotenv";
 
-app.use(
-  session({
-    secret: process.env.SESSION_SECRET,
-    resave: true,
-    rolling: true,
-    saveUninitialized: false,
-    cookie: {
-      expires: 600000,
-    },
-  }),
-);
+dotenv.config();
+
+const app = express();
+const port: number = Number(process.env.PORT) || 3000;
+const dummyText: string = "Howay the lasses";
 
 app.get("/", (req, res) => {
   res.send(`Welcome to Unstyle.io ${dummyText}`);

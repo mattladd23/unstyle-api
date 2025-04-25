@@ -6,7 +6,8 @@
     "moduleResolution": "node",
     "sourceMap": true,
     "strict": true,
-    "outDir": "dist"
+    "outDir": "dist",
+    "typeRoots": ["./node_mules/@types", "./src/types"],
   },
   "lib": ["es2015"]
 }
