@@ -5,12 +5,17 @@ export const callAPI = async () => {
     await page.goto("https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/");
     // await page.screenshot({ path: "src/data/temp/test-screenshot.png" });
 
-    const selectorsList = ".sidebar-body > ol > li:nth-of-type(8) > details > ol > li";
+    const linksSelector = ".sidebar-body > ol > li:nth-of-type(9) > details > ol > li";
 
-    await page.waitForSelector(selectorsList);
+    await page.waitForSelector(linksSelector);
 
-    const sidebar = await page.$$eval(selectorsList, el => el.length);
-    console.log(sidebar);
+    const propertyLinks = await page.$$eval(linksSelector, links => {
+        return links.map(link => link.innerHTML);
+    });
+    // const propertyLinks = await page.$$(linksSelector)
+    console.log(propertyLinks);
+
+
 
     await browser.close();
 } 
