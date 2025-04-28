@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "start": "concurrently \"npm run clean\" \"rm ./src/data/temp/*\" \"tsc --watch\" \"nodemon dist/index.js\"",
+    "start": "concurrently \"yarn clean\" \"rm ./src/data/temp/*\" \"tsc --watch\" \"nodemon dist/index.js\"",
     "lint": "eslint . --ext .ts",
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rimraf dist",
