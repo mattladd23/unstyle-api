@@ -1,6 +1,6 @@
 import { IPage } from '../types/IPage';
 
-export class Page implements IPage {
+class Page implements IPage {
 
     constructor(
         private _baseUrl: string,
@@ -26,7 +26,7 @@ export class Page implements IPage {
         return this._toggleSelector;
     }
 
-    get firstChildSelector() {
+    get nonToggleSelector() {
         return this._firstChildSelector;
     }
 }

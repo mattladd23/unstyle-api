@@ -3,5 +3,5 @@ export interface IPage {
     startingUrl: string;
     baseSelector: string;
     toggleSelector: string;
-    firstChildSelector: string;
+    nonToggleSelector: string;
 }

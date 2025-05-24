@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
-  "type": "module",
   "scripts": {
-    "start": "concurrently -k \"yarn clean\" \"tsc --watch\" \"nodemon dist/index.js\"",
+    "start": "concurrently \"yarn clean\" \"rm ./src/data/temp/*\" \"tsc --watch\" \"nodemon dist/index.js\"",
     "lint": "eslint . --ext .ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "clean": "rimraf dist && rm ./src/data/temp/*",
+    "clean": "rimraf dist",
     "format": "prettier --write ."
   },
   "keywords": [],
@@ -25,8 +24,7 @@
     "rimraf": "^6.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3",
-    "typescript-eslint": "^8.31.0",
-    "wait-on": "^8.0.3"
+    "typescript-eslint": "^8.31.0"
   },
   "dependencies": {
     "dotenv": "^16.5.0",
