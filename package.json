@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "node --loader ts-node/esm src/index.ts",
     "build": "yarn clean && tsc",
-    "start": "concurrently \"yarn clean\" \"rm ./src/data/temp/*\" \"tsc --watch\" \"nodemon dist/index.js\"",
+    "start": "nodemon dist/index.js",
     "lint": "eslint . --ext .ts",
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rimraf dist && del-cli \"src/data/temp/*\"",
