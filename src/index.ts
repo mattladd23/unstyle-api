@@ -1,6 +1,6 @@
 import express, { Request, Response } from "express";
 import dotenv from "dotenv";
-import { callAPI } from "./routes/api";
+import { callAPI } from "./routes/api.js";
 
 dotenv.config();
 
