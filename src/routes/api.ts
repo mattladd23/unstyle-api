@@ -1,4 +1,4 @@
-import { launchBrowser } from "../utils/launchBrowser";
+import { launchBrowser } from "../utils/launchBrowser.js";
 
 export const callAPI = async () => {
     const { browser, page } = await launchBrowser();
