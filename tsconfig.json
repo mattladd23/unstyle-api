@@ -1,14 +1,19 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
+    "module": "ESNext",
     "esModuleInterop": true,
-    "target": "es6",
-    "moduleResolution": "node",
+    "target": "ES2020",
+    "moduleResolution": "Node",
     "sourceMap": true,
     "strict": true,
+    "rootDir": "src",
     "outDir": "dist",
     "typeRoots": ["./node_modules/@types", "./src/types"],
+    "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true
+  },
+  "ts-node": {
+    "esm": true
   },
   "lib": ["es2015"],
   "include": ["src/**/*.ts"],
