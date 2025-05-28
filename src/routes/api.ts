@@ -1,30 +1,31 @@
 import { launchBrowser } from "../utils/launchBrowser.js";
+import { startPage } from "../data/pages/startPage.js";
 
 export const callAPI = async () => {
     const { browser, page } = await launchBrowser();
 
-    const startingUrl = "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference";
-    const baseUrl = "https://developer.mozilla.org";
+    await page.goto(startPage.startingUrl);
 
-    await page.goto(startingUrl);    
-
-    const getUrlPaths = await page.$$eval(".sidebar-body > ol > li:nth-of-type(9) > details > ol > li", links => {        
-        return links.map(link => {
-            if (link.classList[0] == "toggle") {
-                const els = Array.from(link.querySelectorAll("details > ol > li > a"));
-                return els.map(el => {
-                    return el.getAttribute("href");
-                })
+    const getUrlPaths = await page.$$eval(
+        startPage.baseSelector,
+        (links, toggleSelector, firstChildSelector) => {
+          return links.map(link => {
+            if (link.classList.contains("toggle")) {
+              const els = Array.from(link.querySelectorAll(toggleSelector));
+              return els.map(el => el.getAttribute("href"));
             } else {
-                return link.querySelector("a")?.getAttribute("href");
-            }            
-        });
-    });
+              return link.querySelector(firstChildSelector)?.getAttribute("href");
+            }
+          });
+        },
+        startPage.toggleSelector,
+        startPage.firstChildSelector
+    );
 
     const flattenedUrlPaths = getUrlPaths.flat().filter(url => url !== null);
 
-    const urls = flattenedUrlPaths.map(url => baseUrl + url);
+    const urls = flattenedUrlPaths.map(url => startPage.baseUrl + url);
     console.log(urls);
 
     await browser.close();
-} 
+}
