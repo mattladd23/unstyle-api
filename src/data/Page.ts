@@ -3,11 +3,11 @@ import { IPage } from '../types/IPage';
 class Page implements IPage {
 
     constructor(
-        private _baseUrl: string,
-        private _startingUrl: string,
-        private _baseSelector: string,
-        private _toggleSelector: string,
-        private _firstChildSelector: string
+        private readonly _baseUrl: string,
+        private readonly _startingUrl: string,
+        private readonly _baseSelector: string,
+        private readonly _toggleSelector: string,
+        private readonly _firstChildSelector: string
     ) {}
 
     get baseUrl() {
@@ -26,7 +26,17 @@ class Page implements IPage {
         return this._toggleSelector;
     }
 
-    get nonToggleSelector() {
+    get firstChildSelector() {
         return this._firstChildSelector;
+    }
+
+    toJSON() {
+        return {
+            baseUrl: this._baseUrl,
+            startingUrl: this._startingUrl,
+            baseSelector: this._baseSelector,
+            toggleSelector: this._toggleSelector,
+            firstChildSelector: this._firstChildSelector
+        };
     }
 }
