@@ -1,6 +1,6 @@
-import { IPage } from '../types/IPage';
+import { IPage } from '../types/IPage.js';
 
-class Page implements IPage {
+export class Page implements IPage {
 
     constructor(
         private readonly _baseUrl: string,
