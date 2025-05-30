@@ -30,7 +30,7 @@ export class HumanBehaviorSimulator {
       await this.page.evaluate((y) => {
         window.scrollBy(0, y);
       }, scrollAmount);
-      console.log(`Scrolled by ${scrollAmount}px`);
+      // console.log(`Scrolled by ${scrollAmount}px`);
       await this.delay(this.getRandomInt(500, 1200));
     }
   }
@@ -42,14 +42,14 @@ export class HumanBehaviorSimulator {
       const x = this.getRandomInt(0, width);
       const y = this.getRandomInt(0, height);
       await this.page.mouse.move(x, y, { steps: this.getRandomInt(5, 15) });
-      console.log(`Moved mouse to (${x}, ${y})`);
+      // console.log(`Moved mouse to (${x}, ${y})`);
       await this.delay(this.getRandomInt(100, 500));
     }
   }
 
-  private async pauseRandomly() {
-    console.log(`Paused for a random duration`);
-    await this.delay(this.getRandomInt(1000, 3000));    
+  private async pauseRandomly() {    
+    await this.delay(this.getRandomInt(1000, 3000));
+    // console.log(`Paused for a random duration`);
   }
 
   private delay(ms: number): Promise<void> {

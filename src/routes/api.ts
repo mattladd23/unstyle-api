@@ -19,7 +19,38 @@ export const callAPI = async () => {
         startPage.baseUrl
     );
 
-    console.log(urls);
+    // console.log(urls);
+
+    let numUrlsVisited: number = 0;
+    let notEmptyInitialValues: number = 0;
+
+    for (const url of urls) {
+        await page.goto(url);
+        numUrlsVisited++;
+        console.log(`Navigating to: ${url}`);
+        await humanBehaviorSimulator.simulateRandomBehavior();
+        const initialValue = await page.$$eval(".properties tr:first-child", (values) => {
+            if (!values[0]) {
+                return { value: "No values table found", hasInitialValue: false };
+            }
+            if (values[0].querySelector('a')?.textContent?.includes("Initial value")) {
+                return { value: values[0].querySelector('code')?.textContent?.trim(), hasInitialValue: true };
+            } else {
+                return { value: "No initial value found", hasInitialValue: false };
+            }
+        });
+
+        if (initialValue.hasInitialValue) {
+            notEmptyInitialValues++;
+        }
+
+        console.log({
+            "url": url,
+            "initialValue": initialValue
+        });
+        
+        console.log(`Visited ${numUrlsVisited} URLs, found ${notEmptyInitialValues} with initial values.`);
+    }
 
     await browser.close();
 }
