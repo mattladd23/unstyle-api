@@ -7,7 +7,7 @@ export const launchBrowser = async (): Promise<{
     console.log("Launching puppeteer...");
 
     // Launch a new browser instance
-    const browser: Browser = await puppeteer.launch({ headless: true, timeout: 60000 });
+    const browser: Browser = await puppeteer.launch({ headless: false, timeout: 60000 });
 
     // Create new context to encapsulate future strategies
     const context: BrowserContext = await browser.createBrowserContext();
