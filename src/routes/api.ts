@@ -2,6 +2,7 @@ import { launchBrowser } from "../utils/launchBrowser.js";
 import { startPage } from "../data/pages/startPage.js";
 import { getUrls } from "../utils/getUrls.js";
 import { HumanBehaviorSimulator } from "../utils/HumanBehaviourSimulator.js";
+import { visitUrls } from "../utils/visitUrls.js";
 
 export const callAPI = async () => {
     const { browser, page } = await launchBrowser();
@@ -19,7 +20,7 @@ export const callAPI = async () => {
         startPage.baseUrl
     );
 
-    console.log(urls);
+    await visitUrls(urls, page, humanBehaviorSimulator);
 
     await browser.close();
 }
