@@ -13,4 +13,3 @@ export const getInitialValue = async (page: Page, url: string) => {
     });
     return { value: initialValueResult.value, foundInitialValue: initialValueResult.foundInitialValue };
 }
-
