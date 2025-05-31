@@ -1,5 +1,6 @@
 import { Page } from 'puppeteer';
 import { HumanBehaviorSimulator } from './HumanBehaviourSimulator.js';
+import { getInitialValue } from './getInitialValue.js';
 
 export const visitUrls = async (
     urls: string[],
@@ -16,26 +17,11 @@ export const visitUrls = async (
         numUrlsVisited++;
         console.log(`Navigating to: ${url}`);
         await humanBehaviorSimulator.simulateRandomBehavior();
-        const initialValue = await page.$$eval(".properties tr:first-child", (values) => {
-            if (!values[0]) {
-                return { value: "No values table found", foundInitialValue: false };
-            }
-            if (values[0].querySelector('a')?.textContent?.includes("Initial value")) {
-                return { value: values[0].querySelector('code')?.textContent?.trim(), foundInitialValue: true };
-            } else {
-                return { value: "No initial value found", foundInitialValue: false };
-            }
-        });
-
+        const initialValue = await getInitialValue(page, url);
+        console.log(`Initial value: ${initialValue.value}\n`);
         if (initialValue.foundInitialValue) {
             notEmptyInitialValues++;
         }
-
-        console.log({
-            "url": url,
-            "initialValue": initialValue
-        });
-        
-        console.log(`Visited ${numUrlsVisited} URLs, found ${notEmptyInitialValues} with initial values.`);
+        console.log(`Visited ${numUrlsVisited} URLs, found ${notEmptyInitialValues} with initial values.\n`);
     }
 }
