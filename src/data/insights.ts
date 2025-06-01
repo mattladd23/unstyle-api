@@ -1,3 +1,5 @@
+// *** SHORTHAND CAVEATS ***
+
 // all is a shorthand property that doesn't have an initial value, so it is not included in the list.
 // box-orient isn't a shorthand property but contains multiple initial values, so it is included in the list (inline-axis (horizontal in XUL)).
 // marker is shorthand but has been missed off the list on MDN
@@ -8,6 +10,23 @@
 // text-box is shorthand but has been given an initial value of normal, so it is not included in the list.
 // text-wrap is shorthand but has been given an initial value of wrap, so it is not included in the list.
 // --webkit-box-image is shorthand but has been given an initial value of none, so it is not included in the list.
+
+// *** URLS WITH NO INITIAL VALUE ***
+
+// color-interpolation does in fact have a default value of auto but the terminology is inconsistent so wasn't caught by the script.
+
+// *** URLS WITH NO VALUES TABLE ***
+
+export const urlsWithNoValuesTable: object[] = [
+    {url: "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-mask-box-image", partOfUl: true, initialValue: "none"},
+    {url: "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-security", partOfUl: false, initialValue: "none"},
+    {url: "https://developer.mozilla.org/en-US/docs/Web/CSS/clip-rule", partOfUl: false, initialValue: "nonzero"},
+    {url: "https://developer.mozilla.org/en-US/docs/Web/CSS/reading-flow", partOfUl: false, initialValue: "normal"},
+    {url: "https://developer.mozilla.org/en-US/docs/Web/CSS/reading-order", partOfUl: false, initialValue: "0"},
+    {url: "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-marker-group", partOfUl: false, initialValue: "none"},
+    {url: "https://developer.mozilla.org/en-US/docs/Web/CSS/user-modify", partOfUl: false, initialValue: "read-only"},
+    {url: "https://developer.mozilla.org/en-US/docs/Web/CSS/vector-effect", partOf: false, initialValue: "none"},
+];
 
 
 export const urlsWithMultipleInitialValues: object[] = [

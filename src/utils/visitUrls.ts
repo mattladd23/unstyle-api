@@ -29,8 +29,10 @@ export const visitUrls = async (
             urlsWithNoValuesTable.push(url);
         } else if (initialValue.value === "No initial value found") {
             urlsWithNoInitialValue.push(url);
-        } else if (+initialValue.value > 1) {
+        } else if (initialValue.valuesFound > 1) {
             urlsWithMultipleInitialValues.push(url);
+        } else if (initialValue.valuesFound === 1) {
+            console.log(`Append ${initialValue.value} to json`);
         }
         console.log(`Visited ${numUrlsVisited} URLs, found ${notEmptyInitialValues} with initial values.\n`);
         if (numUrlsVisited >= urls.length) { break; }
