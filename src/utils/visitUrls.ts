@@ -1,6 +1,7 @@
 import { Page } from 'puppeteer';
 import { HumanBehaviorSimulator } from './HumanBehaviourSimulator.js';
 import { getInitialValue } from './getInitialValue.js';
+import { InitialValue } from '../types/InitialValue.js';
 
 export const visitUrls = async (
     urls: string[],
@@ -15,7 +16,7 @@ export const visitUrls = async (
     let urlsWithNoInitialValue: string[] = [];
     let urlsWithMultipleInitialValues: string[] = [];
 
-    let initialValues: object[] = [];
+    let initialValues: InitialValue[] = [];
 
     for (const url of urls) {
         await page.goto(url);
@@ -41,6 +42,7 @@ export const visitUrls = async (
         }
         console.log(`Visited ${numUrlsVisited} URLs, found ${notEmptyInitialValues} with initial values.\n`);
         if (numUrlsVisited >= urls.length) { break; }
+        // if (numUrlsVisited >= 10) { break; }
     }
 
     // console.log(`\nSummary of URLs visited:`);
