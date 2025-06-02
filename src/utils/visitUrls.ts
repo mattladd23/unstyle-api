@@ -41,8 +41,8 @@ export const visitUrls = async (
             });
         }
         console.log(`Visited ${numUrlsVisited} URLs, found ${notEmptyInitialValues} with initial values.\n`);
-        if (numUrlsVisited >= urls.length) { break; }
-        // if (numUrlsVisited >= 10) { break; }
+        // if (numUrlsVisited >= urls.length) { break; }
+        if (numUrlsVisited >= 5) { break; }
     }
 
     // console.log(`\nSummary of URLs visited:`);
