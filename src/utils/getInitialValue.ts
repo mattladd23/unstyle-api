@@ -7,9 +7,10 @@ export const getInitialValue = async (page: Page, url: string) => {
             if (!rows[0]) {
                 return {
                     value: "No values table found",
-                    foundInitialValue: false,
+                    foundInitialValues: false,
                     url: urlFromNode,
-                    valuesFound: 0
+                    valuesFound: 0,
+                    resolvedInitialValue: false
                 };
             }
 
@@ -22,32 +23,36 @@ export const getInitialValue = async (page: Page, url: string) => {
                 if (codeElements.length > 1 && codeElements[0]?.textContent) {
                     return {
                         value: "Initial value label found, multiple <code> elements present",
-                        foundInitialValue: true,
+                        foundInitialValues: true,
                         url: urlFromNode,
-                        valuesFound: codeElements.length
+                        valuesFound: codeElements.length,
+                        resolvedInitialValue: false
                     };
                 } else if (codeElements.length === 1 && codeElements[0]?.textContent) {
                     return {
                         value: codeElements[0].textContent.trim(),
-                        foundInitialValue: true,
+                        foundInitialValues: true,
                         url: urlFromNode,
-                        valuesFound: codeElements.length
+                        valuesFound: codeElements.length,
+                        resolvedInitialValue: true
                     };
                 }
 
                 return {
                     value: "Initial value label found, but no <code> content",
-                    foundInitialValue: false,
+                    foundInitialValues: false,
                     url: urlFromNode,
-                    valuesFound: 0
+                    valuesFound: 0,
+                    resolvedInitialValue: false
                 };
             }
 
             return {
                 value: "No initial value found",
-                foundInitialValue: false,
+                foundInitialValues: false,
                 url: urlFromNode,
-                valuesFound: 0
+                valuesFound: 0,
+                resolvedInitialValue: false
             };
         },
         url

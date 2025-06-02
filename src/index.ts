@@ -1,6 +1,7 @@
 import express, { Request, Response } from "express";
 import dotenv from "dotenv";
 import { callAPI } from "./routes/api.js";
+import { prodDb } from "./data/db.js";
 
 dotenv.config();
 
@@ -9,13 +10,18 @@ const port: number = Number(process.env.PORT) || 3000;
 
 app.get("/", (req: Request, res: Response) => {
   setTimeout(() => {
-    res.redirect("/api");
-  }, 3000)  
+    res.redirect("/api/get");
+  }, 3000)
 });
 
-app.get("/api", (req: Request, res: Response) => {
-  res.send("Unstyle API");
+app.get("/api/update", (req: Request, res: Response) => {
+  res.send("Calling Unstyle API");
   callAPI();
+});
+
+app.get("/api/get", async (_req: Request, res: Response) => {
+  await prodDb.read();
+  res.json(prodDb.data?.initialValues || []);
 });
 
 app.listen(port, () => {

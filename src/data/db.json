@@ -1,0 +1,1708 @@
+{
+  "initialValues": [
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-float-edge",
+      "initialValue": "content-box"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-force-broken-image-icon",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-image-region",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-orient",
+      "initialValue": "inline"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-user-focus",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-user-input",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-box-reflect",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-mask-composite",
+      "initialValue": "source-over"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-mask-position-x",
+      "initialValue": "0%"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-mask-position-y",
+      "initialValue": "0%"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-mask-repeat-x",
+      "initialValue": "repeat"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-mask-repeat-y",
+      "initialValue": "repeat"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-tap-highlight-color",
+      "initialValue": "black"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke-width",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-touch-callout",
+      "initialValue": "default"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-content",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-items",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-self",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/alignment-baseline",
+      "initialValue": "baseline"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/anchor-name",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-composition",
+      "initialValue": "replace"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-delay",
+      "initialValue": "0s"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-direction",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-duration",
+      "initialValue": "0s"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-iteration-count",
+      "initialValue": "1"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-name",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-play-state",
+      "initialValue": "running"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-range-end",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-range-start",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timeline",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function",
+      "initialValue": "ease"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/appearance",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility",
+      "initialValue": "visible"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-attachment",
+      "initialValue": "scroll"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-blend-mode",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip",
+      "initialValue": "border-box"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-color",
+      "initialValue": "transparent"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-image",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-origin",
+      "initialValue": "padding-box"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-position",
+      "initialValue": "0% 0%"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-position-x",
+      "initialValue": "0%"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-position-y",
+      "initialValue": "0%"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat",
+      "initialValue": "repeat"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-size",
+      "initialValue": "auto auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/block-size",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-end-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-end-style",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-end-width",
+      "initialValue": "medium"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-start-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-start-style",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-start-width",
+      "initialValue": "medium"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-style",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-width",
+      "initialValue": "medium"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-left-radius",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-right-radius",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-style",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-width",
+      "initialValue": "medium"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse",
+      "initialValue": "separate"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-end-end-radius",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-end-start-radius",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-outset",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-repeat",
+      "initialValue": "stretch"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-slice",
+      "initialValue": "100%"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-source",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-width",
+      "initialValue": "1"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-end-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-end-style",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-end-width",
+      "initialValue": "medium"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-start-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-start-style",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-start-width",
+      "initialValue": "medium"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-style",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-width",
+      "initialValue": "medium"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-left-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-left-style",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-left-width",
+      "initialValue": "medium"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-right-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-right-style",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-right-width",
+      "initialValue": "medium"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-spacing",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-start-end-radius",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-start-start-radius",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-left-radius",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-right-radius",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-style",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-width",
+      "initialValue": "medium"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/bottom",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-align",
+      "initialValue": "stretch"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break",
+      "initialValue": "slice"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-direction",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-flex",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-flex-group",
+      "initialValue": "1"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-lines",
+      "initialValue": "single"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-ordinal-group",
+      "initialValue": "1"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-pack",
+      "initialValue": "start"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing",
+      "initialValue": "content-box"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/break-after",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/break-before",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/break-inside",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/caption-side",
+      "initialValue": "top"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/caret-color",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/clear",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/clip",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/color",
+      "initialValue": "canvastext"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/color-interpolation-filters",
+      "initialValue": "linearRGB"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-count",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-fill",
+      "initialValue": "balance"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-gap",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-rule-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-rule-style",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-rule-width",
+      "initialValue": "medium"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-span",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-width",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/contain",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-block-size",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-height",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-inline-size",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-width",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/container-name",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/container-type",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/content",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/content-visibility",
+      "initialValue": "visible"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/counter-increment",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/counter-reset",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/counter-set",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/cursor",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/cx",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/cy",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/d",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/direction",
+      "initialValue": "ltr"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/display",
+      "initialValue": "inline"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/dominant-baseline",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/empty-cells",
+      "initialValue": "show"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/field-sizing",
+      "initialValue": "fixed"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/fill",
+      "initialValue": "black"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/fill-opacity",
+      "initialValue": "1"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/fill-rule",
+      "initialValue": "nonzero"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/filter",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction",
+      "initialValue": "row"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-shrink",
+      "initialValue": "1"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap",
+      "initialValue": "nowrap"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/float",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flood-color",
+      "initialValue": "black"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flood-opacity",
+      "initialValue": "black"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-kerning",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-language-override",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-optical-sizing",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-palette",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-size",
+      "initialValue": "medium"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-size-adjust",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-style",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis",
+      "initialValue": "weight style small-caps position"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-position",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-small-caps",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-style",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-weight",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-alternates",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-caps",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-east-asian",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-emoji",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-ligatures",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-numeric",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-position",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variation-settings",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/forced-color-adjust",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-columns",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow",
+      "initialValue": "row"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-rows",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column-end",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column-start",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row-end",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row-start",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/hanging-punctuation",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/height",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/hyphenate-character",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/hyphenate-limit-chars",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens",
+      "initialValue": "manual"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/image-orientation",
+      "initialValue": "from-image"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/image-resolution",
+      "initialValue": "1dppx"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/initial-letter",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/inline-size",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block-end",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block-start",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline-end",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline-start",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/interpolate-size",
+      "initialValue": "numeric-only"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/isolation",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/justify-items",
+      "initialValue": "legacy"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/justify-self",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/left",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/lighting-color",
+      "initialValue": "white"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-break",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-clamp",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-height",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-height-step",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-image",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-position",
+      "initialValue": "outside"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type",
+      "initialValue": "disc"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-end",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-start",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-bottom",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline-end",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline-start",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-left",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-right",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-top",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-trim",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/marker-end",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/marker-mid",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/marker-start",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-mode",
+      "initialValue": "alpha"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-outset",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-repeat",
+      "initialValue": "stretch"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-slice",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-source",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-width",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-clip",
+      "initialValue": "border-box"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-composite",
+      "initialValue": "add"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-image",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-mode",
+      "initialValue": "match-source"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-origin",
+      "initialValue": "border-box"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-position",
+      "initialValue": "0% 0%"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-repeat",
+      "initialValue": "repeat"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-size",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-type",
+      "initialValue": "luminance"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/math-depth",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/math-shift",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/math-style",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/max-block-size",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/max-height",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/max-inline-size",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/max-width",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/min-block-size",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/min-height",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/min-inline-size",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/min-width",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit",
+      "initialValue": "fill"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/object-position",
+      "initialValue": "50% 50%"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/offset-anchor",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/offset-distance",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/offset-path",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/offset-position",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/offset-rotate",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/opacity",
+      "initialValue": "1"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/order",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/orphans",
+      "initialValue": "2"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/outline-color",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/outline-offset",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/outline-style",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/outline-width",
+      "initialValue": "medium"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow",
+      "initialValue": "visible"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-anchor",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-block",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-clip-margin",
+      "initialValue": "0px"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-inline",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-x",
+      "initialValue": "visible"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-y",
+      "initialValue": "visible"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overlay",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-block",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-inline",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-x",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-y",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block-end",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block-start",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-bottom",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-inline-end",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-inline-start",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-left",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-right",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-top",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/page",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-after",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-before",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-inside",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/paint-order",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/perspective",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/perspective-origin",
+      "initialValue": "50% 50%"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position",
+      "initialValue": "static"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position-anchor",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position-area",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position-try-fallbacks",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position-try-order",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position-visibility",
+      "initialValue": "anchors-visible"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/print-color-adjust",
+      "initialValue": "economy"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/r",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/resize",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/right",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/rotate",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/row-gap",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/ruby-align",
+      "initialValue": "space-around"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/ruby-position",
+      "initialValue": "alternate"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/rx",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/ry",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scale",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-block-end",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-block-start",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-bottom",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-inline-end",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-inline-start",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-left",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-right",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-top",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-block-end",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-block-start",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-bottom",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-inline-end",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-inline-start",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-left",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-right",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-top",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-align",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-stop",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-timeline-axis",
+      "initialValue": "block"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-timeline-name",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scrollbar-color",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scrollbar-gutter",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scrollbar-width",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/shape-image-threshold",
+      "initialValue": "0.0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/shape-margin",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/shape-outside",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/shape-rendering",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/speak-as",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stop-color",
+      "initialValue": "black"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stop-opacity",
+      "initialValue": "black"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-dasharray",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-dashoffset",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-linecap",
+      "initialValue": "butt"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-linejoin",
+      "initialValue": "miter"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-miterlimit",
+      "initialValue": "4"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-opacity",
+      "initialValue": "1"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-width",
+      "initialValue": "1px"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/tab-size",
+      "initialValue": "8"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-align-last",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-anchor",
+      "initialValue": "start"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-box",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-box-edge",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-box-trim",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-combine-upright",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip",
+      "initialValue": "objects"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip-ink",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style",
+      "initialValue": "solid"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-thickness",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-color",
+      "initialValue": "currentcolor"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-position",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-style",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-indent",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-justify",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-orientation",
+      "initialValue": "mixed"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow",
+      "initialValue": "clip"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-spacing-trim",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-position",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap",
+      "initialValue": "wrap"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap-mode",
+      "initialValue": "wrap"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap-style",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/timeline-scope",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/top",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/touch-action",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform-box",
+      "initialValue": "view-box"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin",
+      "initialValue": "50% 50% 0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform-style",
+      "initialValue": "flat"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transition-behavior",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay",
+      "initialValue": "0s"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transition-duration",
+      "initialValue": "0s"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function",
+      "initialValue": "ease"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/translate",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-bidi",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/user-select",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align",
+      "initialValue": "baseline"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/view-timeline-axis",
+      "initialValue": "block"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/view-timeline-inset",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/view-timeline-name",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/view-transition-class",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/view-transition-name",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/visibility",
+      "initialValue": "visible"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/white-space",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/white-space-collapse",
+      "initialValue": "collapse"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/widows",
+      "initialValue": "2"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/width",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/will-change",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/word-break",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing",
+      "initialValue": "normal"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode",
+      "initialValue": "horizontal-tb"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/x",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/y",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/z-index",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/zoom",
+      "initialValue": "1"
+    }
+  ]
+}
