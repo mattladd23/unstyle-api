@@ -15,6 +15,8 @@ export const visitUrls = async (
     let urlsWithNoInitialValue: string[] = [];
     let urlsWithMultipleInitialValues: string[] = [];
 
+    let initialValues: object[] = [];
+
     for (const url of urls) {
         await page.goto(url);
         numUrlsVisited++;
@@ -32,28 +34,33 @@ export const visitUrls = async (
         } else if (initialValue.valuesFound > 1) {
             urlsWithMultipleInitialValues.push(url);
         } else if (initialValue.valuesFound === 1) {
-            console.log(`Append ${initialValue.value} to json`);
+            initialValues.push({
+                url: initialValue.url,
+                initialValue: initialValue.value,
+            });
         }
         console.log(`Visited ${numUrlsVisited} URLs, found ${notEmptyInitialValues} with initial values.\n`);
         if (numUrlsVisited >= urls.length) { break; }
     }
 
-    console.log(`\nSummary of URLs visited:`);
-    console.log(`Total URLs visited: ${numUrlsVisited}`);
-    console.log(`Total URLs with initial values: ${notEmptyInitialValues}`);
-    console.log(`Total URLs with no values table: ${urlsWithNoValuesTable.length}`);
-    console.log(`Total URLs with no initial value: ${urlsWithNoInitialValue.length}`);
-    console.log(`Total URLs with multiple initial values: ${urlsWithMultipleInitialValues.length}`);
+    // console.log(`\nSummary of URLs visited:`);
+    // console.log(`Total URLs visited: ${numUrlsVisited}`);
+    // console.log(`Total URLs with initial values: ${notEmptyInitialValues}`);
+    // console.log(`Total URLs with no values table: ${urlsWithNoValuesTable.length}`);
+    // console.log(`Total URLs with no initial value: ${urlsWithNoInitialValue.length}`);
+    // console.log(`Total URLs with multiple initial values: ${urlsWithMultipleInitialValues.length}`);
     
-    if (urlsWithNoValuesTable.length > 0) {
-        console.log(`URLs with no values table: ${urlsWithNoValuesTable.join(', ')}`);
-    }
+    // if (urlsWithNoValuesTable.length > 0) {
+    //     console.log(`URLs with no values table: ${urlsWithNoValuesTable.join(', ')}`);
+    // }
     
-    if (urlsWithNoInitialValue.length > 0) {
-        console.log(`URLs with no initial value: ${urlsWithNoInitialValue.join(', ')}`);
-    }
+    // if (urlsWithNoInitialValue.length > 0) {
+    //     console.log(`URLs with no initial value: ${urlsWithNoInitialValue.join(', ')}`);
+    // }
     
-    if (urlsWithMultipleInitialValues.length > 0) {
-        console.log(`URLs with multiple initial values: ${urlsWithMultipleInitialValues.join(', ')}`);
-    }
+    // if (urlsWithMultipleInitialValues.length > 0) {
+    //     console.log(`URLs with multiple initial values: ${urlsWithMultipleInitialValues.join(', ')}`);
+    // }
+
+    return initialValues;
 }

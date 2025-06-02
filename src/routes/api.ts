@@ -20,7 +20,9 @@ export const callAPI = async () => {
         startPage.baseUrl
     );
 
-    await visitUrls(urls, page, humanBehaviorSimulator);
+    const initialValuesObj = await visitUrls(urls, page, humanBehaviorSimulator);
+
+    console.log("Initial values object:", JSON.stringify(initialValuesObj));
 
     await browser.close();
 }
