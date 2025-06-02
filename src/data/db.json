@@ -1,0 +1,36 @@
+{
+  "initialValues": [
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-float-edge",
+      "initialValue": "content-box"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-force-broken-image-icon",
+      "initialValue": "0"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-image-region",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-orient",
+      "initialValue": "inline"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-user-focus",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-user-input",
+      "initialValue": "auto"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-box-reflect",
+      "initialValue": "none"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-mask-composite",
+      "initialValue": "source-over"
+    }
+  ]
+}
