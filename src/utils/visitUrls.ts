@@ -2,6 +2,7 @@ import { Page } from 'puppeteer';
 import { HumanBehaviorSimulator } from './HumanBehaviourSimulator.js';
 import { getInitialValue } from './getInitialValue.js';
 import { InitialValue } from '../types/InitialValue.js';
+import { describeUrls } from './describeUrls.js';
 
 export const visitUrls = async (
     urls: string[],
@@ -45,24 +46,7 @@ export const visitUrls = async (
         if (numUrlsVisited >= 5) { break; }
     }
 
-    // console.log(`\nSummary of URLs visited:`);
-    // console.log(`Total URLs visited: ${numUrlsVisited}`);
-    // console.log(`Total URLs with initial values: ${notEmptyInitialValues}`);
-    // console.log(`Total URLs with no values table: ${urlsWithNoValuesTable.length}`);
-    // console.log(`Total URLs with no initial value: ${urlsWithNoInitialValue.length}`);
-    // console.log(`Total URLs with multiple initial values: ${urlsWithMultipleInitialValues.length}`);
+    describeUrls(numUrlsVisited, notEmptyInitialValues, urlsWithNoValuesTable, urlsWithNoInitialValue, urlsWithMultipleInitialValues);
     
-    // if (urlsWithNoValuesTable.length > 0) {
-    //     console.log(`URLs with no values table: ${urlsWithNoValuesTable.join(', ')}`);
-    // }
-    
-    // if (urlsWithNoInitialValue.length > 0) {
-    //     console.log(`URLs with no initial value: ${urlsWithNoInitialValue.join(', ')}`);
-    // }
-    
-    // if (urlsWithMultipleInitialValues.length > 0) {
-    //     console.log(`URLs with multiple initial values: ${urlsWithMultipleInitialValues.join(', ')}`);
-    // }
-
     return initialValues;
 }
