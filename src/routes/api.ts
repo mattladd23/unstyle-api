@@ -7,6 +7,10 @@ import { Low } from "lowdb";
 import { JSONFile } from "lowdb/node";
 import { InitialValuesData } from "../types/InitialValuesData.js";
 
+const file = 'src/data/db.json';
+const adapter = new JSONFile<InitialValuesData>(file);
+export const db = new Low<InitialValuesData>(adapter, { initialValues: [] });
+
 export const callAPI = async () => {
     const { browser, page } = await launchBrowser();
     const humanBehaviorSimulator = new HumanBehaviorSimulator(page);
@@ -24,10 +28,6 @@ export const callAPI = async () => {
     );
 
     const initialValuesObj = await visitUrls(urls, page, humanBehaviorSimulator);
-
-    const file = 'src/data/db.json';
-    const adapter = new JSONFile<InitialValuesData>(file);
-    const db = new Low<InitialValuesData>(adapter, { initialValues: [] });
 
     await db.read();
 
