@@ -1,5 +1,6 @@
 import express, { Request, Response } from "express";
 import dotenv from "dotenv";
+import cors from "cors";
 import { callAPI } from "./routes/api.js";
 import { prodDb } from "./data/db.js";
 
@@ -7,6 +8,11 @@ dotenv.config();
 
 const app = express();
 const port: number = Number(process.env.PORT) || 3000;
+
+app.use(cors({
+  origin: "http://localhost:3001",
+  credentials: true,
+}));
 
 app.get("/", (req: Request, res: Response) => {
   setTimeout(() => {
