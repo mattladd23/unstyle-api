@@ -7,10 +7,10 @@ import { prodDb } from "./data/db.js";
 dotenv.config();
 
 const app = express();
-const port: number = Number(process.env.PORT) || 3000;
+const port: number = Number(process.env.PORT) || 3001;
 
 app.use(cors({
-  origin: "http://localhost:3001",
+  origin: "http://localhost:3000",
   credentials: true,
 }));
 
