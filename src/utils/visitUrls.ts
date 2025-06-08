@@ -3,6 +3,7 @@ import { HumanBehaviorSimulator } from './HumanBehaviourSimulator.js';
 import { getInitialValue } from './getInitialValue.js';
 import { InitialValue } from '../types/InitialValue.js';
 import { describeUrls } from './describeUrls.js';
+import { v4 as uuidv4 } from 'uuid';
 
 export const visitUrls = async (
     urls: string[],
@@ -37,13 +38,14 @@ export const visitUrls = async (
             urlsWithMultipleInitialValues.push(url);
         } else if (initialValue.valuesFound === 1) {
             initialValues.push({
+                id: uuidv4(),
                 url: initialValue.url,
                 initialValue: initialValue.value,
             });
         }
         console.log(`Visited ${numUrlsVisited} URLs, resolved ${numInitialValues} initial values.\n`);
-        if (numUrlsVisited >= urls.length) { break; }
-        // if (numUrlsVisited >= 5) { break; }
+        // if (numUrlsVisited >= urls.length) { break; }
+        if (numUrlsVisited >= 5) { break; }
     }
 
     describeUrls(numUrlsVisited, numInitialValues, urlsWithNoValuesTable, urlsWithNoInitialValue, urlsWithMultipleInitialValues);
