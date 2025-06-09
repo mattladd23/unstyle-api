@@ -1,1708 +1,2560 @@
 {
   "initialValues": [
     {
+      "id": "91660b31-1d2d-48a3-9b1a-477515a96fb4",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-float-edge",
-      "initialValue": "content-box"
+      "initialValue": "content-box",
+      "order": 1
     },
     {
+      "id": "199a7aea-5232-4b5d-9151-15cd06cb820d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-force-broken-image-icon",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 2
     },
     {
+      "id": "c787f917-cad4-4b5b-9f48-4127b95abb2e",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-image-region",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 3
     },
     {
+      "id": "7aa30c84-d78b-4bf2-a16c-524fb3942d22",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-orient",
-      "initialValue": "inline"
+      "initialValue": "inline",
+      "order": 4
     },
     {
+      "id": "1c0b9a06-c66b-4b24-b7c8-df48a5f4b045",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-user-focus",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 5
     },
     {
+      "id": "7588575b-2a2e-4ccd-b9b3-131b5a385de4",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-user-input",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 6
     },
     {
+      "id": "ed6b75e9-b2c5-412d-b91b-0ad50b280e0c",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-box-reflect",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 7
     },
     {
+      "id": "7934dd74-c448-4321-86ad-e71898bcb055",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-mask-composite",
-      "initialValue": "source-over"
+      "initialValue": "source-over",
+      "order": 8
     },
     {
+      "id": "27bfcca4-d223-430b-bc54-503decddc6f9",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-mask-position-x",
-      "initialValue": "0%"
+      "initialValue": "0%",
+      "order": 9
     },
     {
+      "id": "70a93920-b5ea-485d-9947-c0d1358b2761",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-mask-position-y",
-      "initialValue": "0%"
+      "initialValue": "0%",
+      "order": 10
     },
     {
+      "id": "3527c2fd-7bbf-4396-9d73-891a07a069a6",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-mask-repeat-x",
-      "initialValue": "repeat"
+      "initialValue": "repeat",
+      "order": 11
     },
     {
+      "id": "86fbadc8-8c49-4c32-b7bd-0d51d5c7efb2",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-mask-repeat-y",
-      "initialValue": "repeat"
+      "initialValue": "repeat",
+      "order": 12
     },
     {
+      "id": "d47794b3-4c9d-4e3e-bb64-afbebd9911ef",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-tap-highlight-color",
-      "initialValue": "black"
+      "initialValue": "black",
+      "order": 13
     },
     {
+      "id": "8fbc366c-cb81-4cb4-b245-d9efb3138346",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 14
     },
     {
+      "id": "bbaa2868-a75d-41bd-ba61-3c225391a178",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 15
     },
     {
+      "id": "56f226bc-2b8a-4186-95c6-28483a5675b0",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke-width",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 16
     },
     {
+      "id": "edf5e0f3-aaed-41ac-9590-8d834025b73b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-touch-callout",
-      "initialValue": "default"
+      "initialValue": "default",
+      "order": 17
     },
     {
+      "id": "2f711f0c-3d72-40fa-9e63-4c0607a21026",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 18
     },
     {
+      "id": "c7d12abf-3588-432c-8aca-020fa1aab2b3",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-content",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 19
     },
     {
+      "id": "2f837afb-fad1-45a6-830a-210aea4d4c44",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-items",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 20
     },
     {
+      "id": "feec4ec2-3b12-4a93-bcae-f3bf69d42c76",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-self",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 21
     },
     {
+      "id": "dc651772-cd1e-45d1-aefe-32d8572da999",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/alignment-baseline",
-      "initialValue": "baseline"
+      "initialValue": "baseline",
+      "order": 22
     },
     {
+      "id": "51e6dfa0-4f5c-4df5-a7a1-0875359a37a4",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/anchor-name",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 23
     },
     {
+      "id": "fc171a7b-4e28-4549-92f8-79e0d6c2a206",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-composition",
-      "initialValue": "replace"
+      "initialValue": "replace",
+      "order": 24
     },
     {
+      "id": "7fe9d27e-d3fa-469c-8efd-321c4bf9d7cc",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-delay",
-      "initialValue": "0s"
+      "initialValue": "0s",
+      "order": 25
     },
     {
+      "id": "d4c1d1c1-f080-43d7-adf7-9835dc1a7b75",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-direction",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 26
     },
     {
+      "id": "5d1fe900-7b33-4ae9-b9f0-7f33bf592b82",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-duration",
-      "initialValue": "0s"
+      "initialValue": "0s",
+      "order": 27
     },
     {
+      "id": "c82d2c9d-698d-462c-bfc4-38958d0d4443",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 28
     },
     {
+      "id": "ee50a409-0413-4121-b414-eb9331d74e68",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-iteration-count",
-      "initialValue": "1"
+      "initialValue": "1",
+      "order": 29
     },
     {
+      "id": "41f1d499-3cba-403e-b2dc-503507886554",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-name",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 30
     },
     {
+      "id": "f981a97f-700c-42dc-bd06-4144e57b2629",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-play-state",
-      "initialValue": "running"
+      "initialValue": "running",
+      "order": 31
     },
     {
+      "id": "4a5bc59f-5148-4d8c-8120-5981cceaad68",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-range-end",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 32
     },
     {
+      "id": "4949d9bd-9f15-409f-aba8-ca76dc1acbc4",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-range-start",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 33
     },
     {
+      "id": "5ddb2149-fdfd-4f65-87f7-b7acf702d76a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timeline",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 34
     },
     {
+      "id": "17b6fa22-d38e-4cc4-bf69-32740fd4ef3b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function",
-      "initialValue": "ease"
+      "initialValue": "ease",
+      "order": 35
     },
     {
+      "id": "af9cfc76-1f8d-4535-8a4d-0bd890abf666",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/appearance",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 36
     },
     {
+      "id": "48e58447-1da8-4804-9ef3-1ab5bb1d102f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 37
     },
     {
+      "id": "d1e40f2d-d66a-4297-b643-78b44561f961",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 38
     },
     {
+      "id": "1f1d777a-3ab9-440e-8df7-a916c2d81294",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility",
-      "initialValue": "visible"
+      "initialValue": "visible",
+      "order": 39
     },
     {
+      "id": "976b0f7c-093d-4624-b126-20da4c6f1482",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-attachment",
-      "initialValue": "scroll"
+      "initialValue": "scroll",
+      "order": 40
     },
     {
+      "id": "7720b6cd-da75-40ad-86fd-a64610d6d793",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-blend-mode",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 41
     },
     {
+      "id": "86469a11-c53c-44d2-ba45-6dfd15fb6f42",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip",
-      "initialValue": "border-box"
+      "initialValue": "border-box",
+      "order": 42
     },
     {
+      "id": "71ea3397-3697-4037-b97d-4ac446d47955",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-color",
-      "initialValue": "transparent"
+      "initialValue": "transparent",
+      "order": 43
     },
     {
+      "id": "03202b9e-8647-4ed6-a981-13805cb3f245",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-image",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 44
     },
     {
+      "id": "070340df-cd35-48ad-a5bd-39e79ca3a2c9",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-origin",
-      "initialValue": "padding-box"
+      "initialValue": "padding-box",
+      "order": 45
     },
     {
+      "id": "4d52a23d-b6e4-45d5-8f2f-96630abb274d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-position",
-      "initialValue": "0% 0%"
+      "initialValue": "0% 0%",
+      "order": 46
     },
     {
+      "id": "223f2a29-5264-4dbd-b242-cddd3c3d6040",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-position-x",
-      "initialValue": "0%"
+      "initialValue": "0%",
+      "order": 47
     },
     {
+      "id": "21e89011-ca6e-4aea-8ddf-460192ca7701",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-position-y",
-      "initialValue": "0%"
+      "initialValue": "0%",
+      "order": 48
     },
     {
+      "id": "774bd8fe-30de-49e7-8e8c-bfc4f8cbcfd8",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat",
-      "initialValue": "repeat"
+      "initialValue": "repeat",
+      "order": 49
     },
     {
+      "id": "c4443977-7551-4ec4-afc0-0106457a9468",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-size",
-      "initialValue": "auto auto"
+      "initialValue": "auto auto",
+      "order": 50
     },
     {
+      "id": "9b63f914-c237-4c60-beea-465d32b4a7cb",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/block-size",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 51
     },
     {
+      "id": "8fd9c7e2-6a05-4225-b7f4-569246286ce6",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 52
     },
     {
+      "id": "eb210840-968b-4fac-af00-3a23b7940429",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-end-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 53
     },
     {
+      "id": "9368e133-fbd0-4e5c-83d9-c395914178d2",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-end-style",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 54
     },
     {
+      "id": "fb30b2e1-6e76-4dd6-a39f-d9a8c54d0d66",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-end-width",
-      "initialValue": "medium"
+      "initialValue": "medium",
+      "order": 55
     },
     {
+      "id": "7327ba6b-7133-401c-bd0e-236cc5d7df3f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-start-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 56
     },
     {
+      "id": "defedbc5-8f09-4ea8-8eda-758babe0fce1",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-start-style",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 57
     },
     {
+      "id": "8898cf1f-ce32-439e-812a-f19aebb9b77d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-start-width",
-      "initialValue": "medium"
+      "initialValue": "medium",
+      "order": 58
     },
     {
+      "id": "cb0f7603-ff4a-41d9-b39b-29316ec083ec",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-style",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 59
     },
     {
+      "id": "5f30ceb0-9554-43a3-8068-d3775bb0dd4c",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-width",
-      "initialValue": "medium"
+      "initialValue": "medium",
+      "order": 60
     },
     {
+      "id": "d085d4d8-cf13-4c5d-b666-e3edbec9f775",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 61
     },
     {
+      "id": "3a31ea73-1686-4942-93f4-f770efb8be61",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-left-radius",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 62
     },
     {
+      "id": "f4441cdc-334a-409f-a697-9d14f7d52fa5",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-right-radius",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 63
     },
     {
+      "id": "80e76804-d97e-49c8-abac-d441cb245245",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-style",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 64
     },
     {
+      "id": "b6e546d3-53c3-4e0e-b903-6281b72cf9cd",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-width",
-      "initialValue": "medium"
+      "initialValue": "medium",
+      "order": 65
     },
     {
+      "id": "e7b88534-dbc3-4e7d-b463-d452a7dcfe28",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse",
-      "initialValue": "separate"
+      "initialValue": "separate",
+      "order": 66
     },
     {
+      "id": "ef534587-8032-49eb-ac7e-8beef79eeeb0",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-end-end-radius",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 67
     },
     {
+      "id": "5ac967e3-b91c-4007-9afa-64cf51aad06a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-end-start-radius",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 68
     },
     {
+      "id": "9c74411d-ca82-47d8-a274-9313b6365981",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-outset",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 69
     },
     {
+      "id": "0ce2e6f3-b537-4a63-9d9c-a6b047ce56e1",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-repeat",
-      "initialValue": "stretch"
+      "initialValue": "stretch",
+      "order": 70
     },
     {
+      "id": "a621f178-8219-40a6-9a3a-322bf313be74",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-slice",
-      "initialValue": "100%"
+      "initialValue": "100%",
+      "order": 71
     },
     {
+      "id": "60945f73-28dc-48b9-a874-70213bc1bc88",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-source",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 72
     },
     {
+      "id": "a43df3b8-46d6-4ac3-a4b5-adeb41973aa7",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-width",
-      "initialValue": "1"
+      "initialValue": "1",
+      "order": 73
     },
     {
+      "id": "3db89007-9e55-4e27-a217-d102cfb89420",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 74
     },
     {
+      "id": "a882baaa-ac9a-4b36-abef-7a6378982c97",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-end-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 75
     },
     {
+      "id": "186bc806-bf87-41c6-9c1d-19e47c8f316d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-end-style",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 76
     },
     {
+      "id": "58f1474b-2c00-41f0-ae24-6eafd7bb1b3b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-end-width",
-      "initialValue": "medium"
+      "initialValue": "medium",
+      "order": 77
     },
     {
+      "id": "2cd2f839-db5c-4867-b377-eb715d0fa979",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-start-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 78
     },
     {
+      "id": "10e95741-2b37-4110-b7a6-3efcf9abba73",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-start-style",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 79
     },
     {
+      "id": "820ff74f-afe8-47f9-bb88-fa0323041845",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-start-width",
-      "initialValue": "medium"
+      "initialValue": "medium",
+      "order": 80
     },
     {
+      "id": "c0969c5e-f423-45f2-aeb1-363f6aaad01d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-style",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 81
     },
     {
+      "id": "fd9b5fc2-7b1a-43b7-aaff-29347fee56ba",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-width",
-      "initialValue": "medium"
+      "initialValue": "medium",
+      "order": 82
     },
     {
+      "id": "3a262e70-a540-485d-8550-24dfe2d6a55e",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-left-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 83
     },
     {
+      "id": "f0109ece-dc53-442d-8b00-d52dec5803fb",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-left-style",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 84
     },
     {
+      "id": "95cef7a2-4afb-4165-bab4-6560019cf193",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-left-width",
-      "initialValue": "medium"
+      "initialValue": "medium",
+      "order": 85
     },
     {
+      "id": "177c3283-d481-4ab8-8918-ea64f919ca93",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-right-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 86
     },
     {
+      "id": "c3d70853-90b9-4613-90c9-4ea010c319f9",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-right-style",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 87
     },
     {
+      "id": "68bc8fc4-6f03-4eb7-93cd-faefce94423d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-right-width",
-      "initialValue": "medium"
+      "initialValue": "medium",
+      "order": 88
     },
     {
+      "id": "03e230e9-55a8-4587-972b-f91c125d4f5a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-spacing",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 89
     },
     {
+      "id": "0691ecc4-2260-4933-8384-50269e975625",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-start-end-radius",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 90
     },
     {
+      "id": "f13c568d-4147-4574-8d09-5c8a2578d171",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-start-start-radius",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 91
     },
     {
+      "id": "23fdd527-d192-4b50-a257-9f20a42813ee",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 92
     },
     {
+      "id": "11c6ce5d-ec29-4dd7-add3-959183a61e11",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-left-radius",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 93
     },
     {
+      "id": "b01dd2c4-5a08-43b6-a4fd-9e4f6f7a2fad",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-right-radius",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 94
     },
     {
+      "id": "24969f0c-051d-4aa4-859b-0afd00327fb8",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-style",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 95
     },
     {
+      "id": "b5dba454-fb96-4806-a309-29cae75bfdbe",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-width",
-      "initialValue": "medium"
+      "initialValue": "medium",
+      "order": 96
     },
     {
+      "id": "6d0eb90b-6936-4559-a342-ac93a19841dc",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/bottom",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 97
     },
     {
+      "id": "ee12063f-b35c-457e-9eeb-d0d4ae47dad3",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-align",
-      "initialValue": "stretch"
+      "initialValue": "stretch",
+      "order": 98
     },
     {
+      "id": "646aed15-4a48-4fb7-981c-c64f514fe116",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break",
-      "initialValue": "slice"
+      "initialValue": "slice",
+      "order": 99
     },
     {
+      "id": "f23600c1-19b8-4b92-84b7-057d248438ac",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-direction",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 100
     },
     {
+      "id": "115c0962-c78c-464c-bae4-5a23c1881e2f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-flex",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 101
     },
     {
+      "id": "a72267ef-bf0c-4b50-bcd1-319923ca6aa0",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-flex-group",
-      "initialValue": "1"
+      "initialValue": "1",
+      "order": 102
     },
     {
+      "id": "7117a059-b0b0-4ab4-84b7-17903db68fc6",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-lines",
-      "initialValue": "single"
+      "initialValue": "single",
+      "order": 103
     },
     {
+      "id": "8493c389-719b-49e3-8812-c7db1d94289a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-ordinal-group",
-      "initialValue": "1"
+      "initialValue": "1",
+      "order": 104
     },
     {
+      "id": "439fcf1e-0459-4083-9a7a-af18da76f935",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-pack",
-      "initialValue": "start"
+      "initialValue": "start",
+      "order": 105
     },
     {
+      "id": "e09278c8-479a-442a-8e55-1efe368d2025",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 106
     },
     {
+      "id": "da9b3a2a-556e-4c9f-9f0a-1418a6aa84fe",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing",
-      "initialValue": "content-box"
+      "initialValue": "content-box",
+      "order": 107
     },
     {
+      "id": "a158b24b-24c6-4fcb-ad1c-0d1ae12a6155",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/break-after",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 108
     },
     {
+      "id": "16aba501-8fe4-40fd-89a8-f995e3afcf03",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/break-before",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 109
     },
     {
+      "id": "fb6a911a-d729-4433-ba8a-cd04b0891d2a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/break-inside",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 110
     },
     {
+      "id": "831192b6-e34f-474e-a4ea-bc1be93b5071",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/caption-side",
-      "initialValue": "top"
+      "initialValue": "top",
+      "order": 111
     },
     {
+      "id": "28ac3756-fe13-4c0b-aa3d-37569f21d475",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/caret-color",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 112
     },
     {
+      "id": "06b7990b-2d24-4caf-aaca-77287c022169",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/clear",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 113
     },
     {
+      "id": "73a82fea-e0c6-4784-83de-11b38d4c6c3a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/clip",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 114
     },
     {
+      "id": "77a8b8f4-b12c-4bda-a3a3-238946031348",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 115
     },
     {
+      "id": "eecdee29-4cdd-4308-b6e7-860647d97b89",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/color",
-      "initialValue": "canvastext"
+      "initialValue": "canvastext",
+      "order": 116
     },
     {
+      "id": "1c72a1a8-60dc-44a1-bda0-1487f39db53f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/color-interpolation-filters",
-      "initialValue": "linearRGB"
+      "initialValue": "linearRGB",
+      "order": 117
     },
     {
+      "id": "9dba99fa-ce8d-4754-9372-bf0b6e0426ea",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 118
     },
     {
+      "id": "9859b05b-1060-47f0-baae-7257cd526087",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-count",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 119
     },
     {
+      "id": "b5ee0046-e7a0-4d64-ad67-33b84c0b7d1f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-fill",
-      "initialValue": "balance"
+      "initialValue": "balance",
+      "order": 120
     },
     {
+      "id": "5caeb95f-0a7b-4bd9-8636-f04720c25c0a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-gap",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 121
     },
     {
+      "id": "aa8db8b0-fd97-4746-a08a-4850f0655ee9",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-rule-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 122
     },
     {
+      "id": "0e94ea6a-b5eb-4657-aed0-d0dbdcec61b4",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-rule-style",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 123
     },
     {
+      "id": "b07f5d01-8271-442c-b7ac-8e99e8b24f04",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-rule-width",
-      "initialValue": "medium"
+      "initialValue": "medium",
+      "order": 124
     },
     {
+      "id": "e6b1422a-c332-4c92-8c50-98cc90513fcb",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-span",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 125
     },
     {
+      "id": "6665d3ba-c267-4c48-a2f5-ba1fb23b17c7",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/column-width",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 126
     },
     {
+      "id": "06a06c30-df32-4d58-acaa-5fceed910c23",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/contain",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 127
     },
     {
+      "id": "d3f65944-c3b5-450c-b422-47c96aa15562",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-block-size",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 128
     },
     {
+      "id": "f8817b5d-5d77-41a3-a6f2-d2ef51bbc3b8",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-height",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 129
     },
     {
+      "id": "acfd4ac7-a0ee-4694-8e0d-dcec32a5b15b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-inline-size",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 130
     },
     {
+      "id": "fe9c5d7b-c317-4db7-9488-96bbb850a07d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-width",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 131
     },
     {
+      "id": "3dac4246-9d5f-41bf-b370-c3b96e3390f4",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/container-name",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 132
     },
     {
+      "id": "673485c1-87ef-4c4a-8ab8-5c270c9b32ac",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/container-type",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 133
     },
     {
+      "id": "2e8bff68-ad76-423f-8969-00115ec63bc5",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/content",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 134
     },
     {
+      "id": "2b3172bd-a9fc-41a2-a83b-7010a5792d38",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/content-visibility",
-      "initialValue": "visible"
+      "initialValue": "visible",
+      "order": 135
     },
     {
+      "id": "842bba45-05aa-4b8c-89fc-66714d3be15b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/counter-increment",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 136
     },
     {
+      "id": "37d09afb-d1cb-4367-a193-96e6be31d288",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/counter-reset",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 137
     },
     {
+      "id": "19cb37d0-ca33-485a-86c2-554ed6ded52d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/counter-set",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 138
     },
     {
+      "id": "49d0138f-0531-4f13-aac2-069348ffd498",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/cursor",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 139
     },
     {
+      "id": "5acb6a90-427a-421f-b73c-4c75a223bd2b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/cx",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 140
     },
     {
+      "id": "ef87733c-212d-406f-bb21-28b7f521568e",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/cy",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 141
     },
     {
+      "id": "ed1f275b-3936-4588-9ac5-32dfd285b2b0",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/d",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 142
     },
     {
+      "id": "20de2650-1fa8-4216-9c02-f3b274c7c167",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/direction",
-      "initialValue": "ltr"
+      "initialValue": "ltr",
+      "order": 143
     },
     {
+      "id": "4bfc4ceb-7804-4b15-9321-05a51d278be9",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/display",
-      "initialValue": "inline"
+      "initialValue": "inline",
+      "order": 144
     },
     {
+      "id": "9fb2b5b7-2172-4e9e-abac-683b33844d9c",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/dominant-baseline",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 145
     },
     {
+      "id": "6ea2117e-9706-4b89-9095-d796f2eab46a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/empty-cells",
-      "initialValue": "show"
+      "initialValue": "show",
+      "order": 146
     },
     {
+      "id": "0ad1058d-d5ab-45e6-81ea-f89f8e7bdc29",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/field-sizing",
-      "initialValue": "fixed"
+      "initialValue": "fixed",
+      "order": 147
     },
     {
+      "id": "860c5e2e-ce24-4118-b12a-4bc806c0b563",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/fill",
-      "initialValue": "black"
+      "initialValue": "black",
+      "order": 148
     },
     {
+      "id": "3c41a82c-dbc1-46af-a377-df1ea11e089d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/fill-opacity",
-      "initialValue": "1"
+      "initialValue": "1",
+      "order": 149
     },
     {
+      "id": "e3f44a80-1a70-4067-8150-70793c0689b7",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/fill-rule",
-      "initialValue": "nonzero"
+      "initialValue": "nonzero",
+      "order": 150
     },
     {
+      "id": "ef9034fa-82de-4e89-a519-f9fa4fd4b248",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/filter",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 151
     },
     {
+      "id": "0978b119-37a8-4d59-b4e5-6f455f980afc",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 152
     },
     {
+      "id": "9492d0c8-8d33-4aa9-8b83-313e5fa9eb0c",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction",
-      "initialValue": "row"
+      "initialValue": "row",
+      "order": 153
     },
     {
+      "id": "d301e187-20c9-4aaa-8c3c-e373066338f7",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 154
     },
     {
+      "id": "fe94fd13-d3fd-4a62-88de-e60761c8287a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-shrink",
-      "initialValue": "1"
+      "initialValue": "1",
+      "order": 155
     },
     {
+      "id": "3222d104-cd6b-4746-8613-1627b33d9b68",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap",
-      "initialValue": "nowrap"
+      "initialValue": "nowrap",
+      "order": 156
     },
     {
+      "id": "cd405f05-6d4b-4ac1-9838-1b324e41739b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/float",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 157
     },
     {
+      "id": "9276ce7a-55e0-4665-82a9-ff2822962ca2",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flood-color",
-      "initialValue": "black"
+      "initialValue": "black",
+      "order": 158
     },
     {
+      "id": "758542c6-819b-4759-a24f-936bbd796843",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/flood-opacity",
-      "initialValue": "black"
+      "initialValue": "black",
+      "order": 159
     },
     {
+      "id": "67d0ba58-ec58-4e2a-97ef-890b8e066cf7",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 160
     },
     {
+      "id": "abd12bea-71b8-434b-a777-e16d611e9c9c",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-kerning",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 161
     },
     {
+      "id": "3fb7e24b-cb2f-4d73-879f-42983e481aab",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-language-override",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 162
     },
     {
+      "id": "3f45c7c1-df65-4eff-bfe3-0b71eb53e330",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-optical-sizing",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 163
     },
     {
+      "id": "d8db9cda-f2e4-45f6-9c15-4e8144513c6e",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-palette",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 164
     },
     {
+      "id": "fd1ce894-6122-4efa-af7f-183f0a06fe29",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-size",
-      "initialValue": "medium"
+      "initialValue": "medium",
+      "order": 165
     },
     {
+      "id": "00eb12e9-f404-4c2a-ad82-62e4d3f37123",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-size-adjust",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 166
     },
     {
+      "id": "20ba4679-d49b-4585-94bf-bcfc8ca12fd2",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 167
     },
     {
+      "id": "8b43fa77-d847-4697-bf41-21b201a7785f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 168
     },
     {
+      "id": "e797d2f8-2cb2-42de-a87f-6fa926912c43",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-style",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 169
     },
     {
+      "id": "27591d4e-2cc2-45ab-bf6d-0ec987152668",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis",
-      "initialValue": "weight style small-caps position"
+      "initialValue": "weight style small-caps position",
+      "order": 170
     },
     {
+      "id": "0e14efb3-1961-41ab-b429-de4cea6cb24b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-position",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 171
     },
     {
+      "id": "eea651d9-a638-459b-973f-8223ef8b1ffd",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-small-caps",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 172
     },
     {
+      "id": "ca4f7a95-dc82-4b3d-9428-4358c4921d2b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-style",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 173
     },
     {
+      "id": "face76ad-d3b7-4f4f-8c96-c597299c10d6",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-weight",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 174
     },
     {
+      "id": "f3e47e95-1de6-43e8-83da-b04b35f5d6f1",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 175
     },
     {
+      "id": "8f206f40-1d1a-4ba0-a5b9-e6193929f8d1",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-alternates",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 176
     },
     {
+      "id": "a960b184-e570-4bda-bdb1-a61c88dc0583",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-caps",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 177
     },
     {
+      "id": "43643b40-0d72-4788-9c4b-c439653b46fd",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-east-asian",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 178
     },
     {
+      "id": "578dd222-b900-4429-a366-1513a3a20c84",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-emoji",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 179
     },
     {
+      "id": "55d90812-68ce-4c31-ac05-b997469d000a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-ligatures",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 180
     },
     {
+      "id": "a237ced4-91a3-4c0e-874c-56be1e0b4553",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-numeric",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 181
     },
     {
+      "id": "1a9af5e8-8c87-44b2-874e-38239a415527",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-position",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 182
     },
     {
+      "id": "f0633871-5565-49c2-807a-fff37e427b10",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variation-settings",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 183
     },
     {
+      "id": "d1396ba5-2e61-4e6b-896e-38bad5f9b8a9",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 184
     },
     {
+      "id": "a8b23984-4944-4b12-9c46-b7f50d6c1ed9",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/forced-color-adjust",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 185
     },
     {
+      "id": "3d43d725-2885-49c8-a241-521a098b304c",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-columns",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 186
     },
     {
+      "id": "b7d96718-88e5-49f5-90c3-003cc06e18ba",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow",
-      "initialValue": "row"
+      "initialValue": "row",
+      "order": 187
     },
     {
+      "id": "3797c438-ec10-41e1-882a-a7fb9783c1cc",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-rows",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 188
     },
     {
+      "id": "61211dfe-0a92-4d65-8fdb-da6c60ec3eda",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column-end",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 189
     },
     {
+      "id": "3331c15e-6a47-468d-b345-ae6253e3cba5",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column-start",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 190
     },
     {
+      "id": "3f17c21a-87fa-47b3-a1f6-27d4a1baf48b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row-end",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 191
     },
     {
+      "id": "8bef33d6-4e4a-4a3e-a6eb-a4478b9e1704",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row-start",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 192
     },
     {
+      "id": "f6cedff5-6e11-4f50-844f-b6e296a55a21",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 193
     },
     {
+      "id": "c101e693-3ee3-4735-84cc-14011367ac67",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 194
     },
     {
+      "id": "aafb77a2-edf9-4e39-8d1d-e9f80ac6426d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 195
     },
     {
+      "id": "4387571c-b7df-4323-809e-7182c5db919a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/hanging-punctuation",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 196
     },
     {
+      "id": "09406821-a9ff-4934-b87b-8116de4d2fbc",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/height",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 197
     },
     {
+      "id": "55ab3009-9fd0-44f2-85cf-4a2375c3b757",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/hyphenate-character",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 198
     },
     {
+      "id": "89894e5f-e269-4476-b72c-ff5dfa620437",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/hyphenate-limit-chars",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 199
     },
     {
+      "id": "ec330506-37fb-4166-9cf1-3ab96a1f8a52",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens",
-      "initialValue": "manual"
+      "initialValue": "manual",
+      "order": 200
     },
     {
+      "id": "92c1067a-ecc9-4524-92fa-eca73c5bc808",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/image-orientation",
-      "initialValue": "from-image"
+      "initialValue": "from-image",
+      "order": 201
     },
     {
+      "id": "b32910e7-ace1-4a7e-ba43-afb48c2ce58f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 202
     },
     {
+      "id": "6614a7d7-de4d-4f0e-88c0-c1380cbc49f2",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/image-resolution",
-      "initialValue": "1dppx"
+      "initialValue": "1dppx",
+      "order": 203
     },
     {
+      "id": "89c1e774-852c-4889-bdd8-20700a7f451f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/initial-letter",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 204
     },
     {
+      "id": "b69a4cfa-5ac4-41d3-86e4-ade42d0ead65",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/inline-size",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 205
     },
     {
+      "id": "38cb3ae6-c2e6-458b-ac90-25fa64e86496",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block-end",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 206
     },
     {
+      "id": "1be4109a-854f-4ed4-99f3-4e9340bf7d37",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block-start",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 207
     },
     {
+      "id": "78566055-311c-4de0-972c-8ae47ea5f6e6",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline-end",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 208
     },
     {
+      "id": "92ed510f-79e3-42bf-81d4-f926692b08e8",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline-start",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 209
     },
     {
+      "id": "048a4b84-311e-4494-8613-0909973ad490",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/interpolate-size",
-      "initialValue": "numeric-only"
+      "initialValue": "numeric-only",
+      "order": 210
     },
     {
+      "id": "13d58d11-0379-47b9-b7ef-39183028d370",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/isolation",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 211
     },
     {
+      "id": "9c939761-b514-4e71-91c1-ca8f3482a774",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 212
     },
     {
+      "id": "3b30d0c5-f701-47f1-9544-2547cd4894e4",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/justify-items",
-      "initialValue": "legacy"
+      "initialValue": "legacy",
+      "order": 213
     },
     {
+      "id": "b1369b4d-f9e4-40ae-82a4-b55e1d9c88e9",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/justify-self",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 214
     },
     {
+      "id": "84e88609-b36c-49f0-b0d2-b71274b77d89",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/left",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 215
     },
     {
+      "id": "8244daef-90f5-46bb-8ded-52ae6ff42ca4",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 216
     },
     {
+      "id": "81437b47-542b-48c4-8a9a-3f6ee7d99ce6",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/lighting-color",
-      "initialValue": "white"
+      "initialValue": "white",
+      "order": 217
     },
     {
+      "id": "ab500f08-6ef2-4bb1-88a9-30f43c9bcb64",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-break",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 218
     },
     {
+      "id": "1b2394b9-9590-4164-948b-8a39b84e873a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-clamp",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 219
     },
     {
+      "id": "30288b26-4c83-48e8-8a36-3461737c539f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-height",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 220
     },
     {
+      "id": "7fa39fff-4285-4b2a-84e5-23645c1e7b82",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-height-step",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 221
     },
     {
+      "id": "1d29d7ed-5e36-44c1-ab23-1f1b407f48f8",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-image",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 222
     },
     {
+      "id": "4ac57d34-3b69-4613-8075-44bac31bc03d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-position",
-      "initialValue": "outside"
+      "initialValue": "outside",
+      "order": 223
     },
     {
+      "id": "222376fc-27ba-4005-a429-f63595c375c6",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type",
-      "initialValue": "disc"
+      "initialValue": "disc",
+      "order": 224
     },
     {
+      "id": "aa3e07ac-de51-41d0-bd59-87dd1bddf540",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-end",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 225
     },
     {
+      "id": "8e835d9d-d417-4f1a-9a61-e6f5834da257",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-start",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 226
     },
     {
+      "id": "b7dabc8f-39ca-418d-b18a-987678d8a307",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-bottom",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 227
     },
     {
+      "id": "09f69870-889a-4f17-a955-0039e1222c85",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline-end",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 228
     },
     {
+      "id": "05e4e28a-f98f-4c52-a9de-a17505a25580",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline-start",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 229
     },
     {
+      "id": "17b43e58-65dc-4111-b5ac-01e03a112ee2",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-left",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 230
     },
     {
+      "id": "ca120a44-58d6-4439-b370-ee319971520d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-right",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 231
     },
     {
+      "id": "8b3ba5ae-0dd8-48b8-9586-d5ec9bb77ebf",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-top",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 232
     },
     {
+      "id": "45c633ed-c895-4062-bf00-f0dcfe3819f8",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin-trim",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 233
     },
     {
+      "id": "a6f1a122-fdfc-46e9-9e09-9f977651173d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/marker-end",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 234
     },
     {
+      "id": "b4b839c5-f8ac-4194-9492-3f8f73b3ebd5",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/marker-mid",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 235
     },
     {
+      "id": "e990d547-6a02-47d9-987e-442105d45154",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/marker-start",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 236
     },
     {
+      "id": "35376eb3-c78f-4f62-bd81-a274c1f27106",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-mode",
-      "initialValue": "alpha"
+      "initialValue": "alpha",
+      "order": 237
     },
     {
+      "id": "f92fd3c8-fc3f-4249-a0ae-250bf8ba4073",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-outset",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 238
     },
     {
+      "id": "c843b578-f64c-4a85-b5cf-615439469468",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-repeat",
-      "initialValue": "stretch"
+      "initialValue": "stretch",
+      "order": 239
     },
     {
+      "id": "bb830d3a-6e0a-446e-a484-ff27eaa29a70",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-slice",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 240
     },
     {
+      "id": "e195f785-c0c1-4f9c-863b-874408294895",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-source",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 241
     },
     {
+      "id": "3a2c9e4a-4c93-4ae2-8554-689e4a322139",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-width",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 242
     },
     {
+      "id": "d7b0eced-baeb-4901-9b99-e15713456571",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-clip",
-      "initialValue": "border-box"
+      "initialValue": "border-box",
+      "order": 243
     },
     {
+      "id": "b5712120-ffb1-424d-a730-302f8b8102cf",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-composite",
-      "initialValue": "add"
+      "initialValue": "add",
+      "order": 244
     },
     {
+      "id": "5331d8af-dacf-49ff-be62-1d7c61f8fdef",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-image",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 245
     },
     {
+      "id": "e23a18c5-b758-4cf5-ad96-3cefdb9db115",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-mode",
-      "initialValue": "match-source"
+      "initialValue": "match-source",
+      "order": 246
     },
     {
+      "id": "7e1f0601-7368-43ca-95db-3792c3e09618",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-origin",
-      "initialValue": "border-box"
+      "initialValue": "border-box",
+      "order": 247
     },
     {
+      "id": "383a872a-01ea-450d-8344-f8f6ffbd08f2",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-position",
-      "initialValue": "0% 0%"
+      "initialValue": "0% 0%",
+      "order": 248
     },
     {
+      "id": "20b2b462-a332-4416-bfb1-47d1ea6fd1d5",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-repeat",
-      "initialValue": "repeat"
+      "initialValue": "repeat",
+      "order": 249
     },
     {
+      "id": "48b801f1-85c9-4dda-8940-09e80cd20dcd",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-size",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 250
     },
     {
+      "id": "8c49c0a4-acb6-4168-8d33-0f22e5f01a4c",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mask-type",
-      "initialValue": "luminance"
+      "initialValue": "luminance",
+      "order": 251
     },
     {
+      "id": "4042239f-56b8-4ee8-9fbf-d660f6a9e7cf",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/math-depth",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 252
     },
     {
+      "id": "9d5938d1-45d6-4dae-994b-16d8d190021c",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/math-shift",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 253
     },
     {
+      "id": "70365d56-693d-4ae1-b4a7-d12094b3878e",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/math-style",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 254
     },
     {
+      "id": "ce954db4-14ab-4245-8fdc-a5fcbfd6c725",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/max-block-size",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 255
     },
     {
+      "id": "01f8b755-cb00-413d-af7a-449fcd1b742a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/max-height",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 256
     },
     {
+      "id": "e4c0644d-28f0-4959-b14e-02ff9a193e81",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/max-inline-size",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 257
     },
     {
+      "id": "c31edcbd-58f0-46de-b0d8-9878a302c4b0",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/max-width",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 258
     },
     {
+      "id": "f0316e0e-d7ea-43c3-bbc5-e7732dcf73a3",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/min-block-size",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 259
     },
     {
+      "id": "588795da-2fa5-414e-892f-87732e2cbf8b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/min-height",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 260
     },
     {
+      "id": "e87eaa15-2201-47c1-8c8f-8788ce0ba542",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/min-inline-size",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 261
     },
     {
+      "id": "75635eac-1fef-4f77-a442-a688dec2bb29",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/min-width",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 262
     },
     {
+      "id": "e5d3f8a0-d7ae-4565-abd6-a2d8d818f24d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 263
     },
     {
+      "id": "5066e87d-9f41-4b29-94e3-1deaa9fdac09",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit",
-      "initialValue": "fill"
+      "initialValue": "fill",
+      "order": 264
     },
     {
+      "id": "69da582e-052c-4008-abdf-d8ef26e67d41",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/object-position",
-      "initialValue": "50% 50%"
+      "initialValue": "50% 50%",
+      "order": 265
     },
     {
+      "id": "6da880d2-c2a9-4dc5-8a73-e6753cb409bc",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/offset-anchor",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 266
     },
     {
+      "id": "b9773f80-168c-4174-aad4-2bbe44a9d94f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/offset-distance",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 267
     },
     {
+      "id": "e1f6d10c-81de-4538-8550-45b8e2175c19",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/offset-path",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 268
     },
     {
+      "id": "73705574-2767-4925-975d-ebce7b3b0140",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/offset-position",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 269
     },
     {
+      "id": "db8719ad-1f5a-4656-9a63-4c5d84e816f8",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/offset-rotate",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 270
     },
     {
+      "id": "01c61bc5-3939-4ded-b32b-1100252149cf",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/opacity",
-      "initialValue": "1"
+      "initialValue": "1",
+      "order": 271
     },
     {
+      "id": "b97959cb-2f51-4017-8193-5bb7a07f49fa",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/order",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 272
     },
     {
+      "id": "cce68683-28f8-4f71-992c-724dcaf2f06f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/orphans",
-      "initialValue": "2"
+      "initialValue": "2",
+      "order": 273
     },
     {
+      "id": "5a0211ff-c1ff-4a1c-ae83-1b71f52bdd4f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/outline-color",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 274
     },
     {
+      "id": "745d210d-2410-4d81-b604-90b59dcc0242",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/outline-offset",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 275
     },
     {
+      "id": "6468c733-2801-4ad9-b7a8-002b4247210d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/outline-style",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 276
     },
     {
+      "id": "80182468-1bad-4aef-ab83-6d6b18d0dedc",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/outline-width",
-      "initialValue": "medium"
+      "initialValue": "medium",
+      "order": 277
     },
     {
+      "id": "a11a8f03-ebcd-4656-bfc6-29e3c908fbd4",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow",
-      "initialValue": "visible"
+      "initialValue": "visible",
+      "order": 278
     },
     {
+      "id": "a533d11c-ddce-4bfb-a1df-a0cc05bb7fcd",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-anchor",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 279
     },
     {
+      "id": "a3a959be-a171-4a36-8ed7-96f64bcf484d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-block",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 280
     },
     {
+      "id": "49345b4f-6c07-4ddb-968c-b63fdae53e45",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-clip-margin",
-      "initialValue": "0px"
+      "initialValue": "0px",
+      "order": 281
     },
     {
+      "id": "bb89cc15-5268-4a3c-b103-845e245245d4",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-inline",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 282
     },
     {
+      "id": "81b36f9b-8b7c-45b3-b916-fb4135d27ce3",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 283
     },
     {
+      "id": "9c9674cb-ec11-4979-865e-3a146734521b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-x",
-      "initialValue": "visible"
+      "initialValue": "visible",
+      "order": 284
     },
     {
+      "id": "326c4b39-f5a3-4078-b3c1-ca3753500720",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-y",
-      "initialValue": "visible"
+      "initialValue": "visible",
+      "order": 285
     },
     {
+      "id": "af52c9a4-c1c9-46bc-9720-d66d61bcba83",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overlay",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 286
     },
     {
+      "id": "c1fde6be-d627-489a-be5e-9d1491ab3e35",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 287
     },
     {
+      "id": "3a4f37e7-0a0a-43bd-8cc2-c4ebae5fa72c",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-block",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 288
     },
     {
+      "id": "9aba9549-4651-40fe-8a00-cf059f772abb",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-inline",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 289
     },
     {
+      "id": "f2c3d541-88ff-4dd4-b7d7-ab7a4ae1f2dc",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-x",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 290
     },
     {
+      "id": "6cd6935a-16d4-433f-84e6-0c518e2e97be",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-y",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 291
     },
     {
+      "id": "9bf5f63e-9bc4-47ec-86c1-c99e14ad3414",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block-end",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 292
     },
     {
+      "id": "e3a35044-8b10-46c4-9e2e-e398620a5128",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block-start",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 293
     },
     {
+      "id": "67a13887-cc0f-4bed-acab-c4ef83ceecaf",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-bottom",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 294
     },
     {
+      "id": "05a27ac2-7982-4ad0-bb37-27fab3ef4553",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-inline-end",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 295
     },
     {
+      "id": "7c1e5beb-17dc-4ee5-a83d-d63f3564d0cb",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-inline-start",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 296
     },
     {
+      "id": "92189664-add6-4e85-916b-17a374b8f128",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-left",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 297
     },
     {
+      "id": "5f2026f2-39c2-49c9-a6ef-724b5c369531",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-right",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 298
     },
     {
+      "id": "9b076d31-91ed-4e51-9aea-a4defea8f19b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding-top",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 299
     },
     {
+      "id": "c23c8d2c-7456-4d04-a600-24244d9d2d56",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/page",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 300
     },
     {
+      "id": "00408291-24bc-4329-a72d-9646fb60e7af",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-after",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 301
     },
     {
+      "id": "b76e7005-6a91-4b02-924c-c0179c2a52d2",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-before",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 302
     },
     {
+      "id": "b0663fb4-2d62-4b56-b7d6-f432193bf6f5",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-inside",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 303
     },
     {
+      "id": "4c72856d-3864-425a-b8e7-917dfad30a4a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/paint-order",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 304
     },
     {
+      "id": "ffa1521b-cb6f-4549-8b8e-ee2941b9eab5",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/perspective",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 305
     },
     {
+      "id": "5ae09e55-3cb3-4198-97d4-9a95c8ef8fb0",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/perspective-origin",
-      "initialValue": "50% 50%"
+      "initialValue": "50% 50%",
+      "order": 306
     },
     {
+      "id": "0416ab46-7f8e-42af-a085-7df0e4464c5a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 307
     },
     {
+      "id": "48b6bdb2-3dfb-4478-b856-ebfae2dec475",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position",
-      "initialValue": "static"
+      "initialValue": "static",
+      "order": 308
     },
     {
+      "id": "7d714093-7553-4a1f-bb48-662e168fb040",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position-anchor",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 309
     },
     {
+      "id": "9a1baa35-9e75-4996-9b8f-dad749b8c23a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position-area",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 310
     },
     {
+      "id": "8c7046de-3ec1-4eae-b8a2-2e4475404ef6",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position-try-fallbacks",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 311
     },
     {
+      "id": "45684cd7-7d28-4cad-b5d6-c4e603650376",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position-try-order",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 312
     },
     {
+      "id": "2f2b184a-13af-4f73-91a3-c7b00a418dda",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position-visibility",
-      "initialValue": "anchors-visible"
+      "initialValue": "anchors-visible",
+      "order": 313
     },
     {
+      "id": "5d771f6b-4bdf-45b1-9711-262a0af490bc",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/print-color-adjust",
-      "initialValue": "economy"
+      "initialValue": "economy",
+      "order": 314
     },
     {
+      "id": "aff043a5-75fc-4888-8ef7-a5846b72fbdc",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/r",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 315
     },
     {
+      "id": "9a00ff9e-211d-408d-90f6-f5fd24ee4c0e",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/resize",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 316
     },
     {
+      "id": "4ff0851d-89ff-44dc-a16e-b0142b8c23e1",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/right",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 317
     },
     {
+      "id": "2b98dc51-0df6-43be-9590-8f06acb85dca",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/rotate",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 318
     },
     {
+      "id": "0e3531a0-9e0d-4c65-9c88-4a5d65e47b01",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/row-gap",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 319
     },
     {
+      "id": "8fb1859e-194b-4bfc-a14f-8f5d1f59ceb8",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/ruby-align",
-      "initialValue": "space-around"
+      "initialValue": "space-around",
+      "order": 320
     },
     {
+      "id": "47bdb4c7-c05f-49b0-b717-b275b70eda9e",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/ruby-position",
-      "initialValue": "alternate"
+      "initialValue": "alternate",
+      "order": 321
     },
     {
+      "id": "b04aa19a-7f86-4e56-a00e-f414a2db82e3",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/rx",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 322
     },
     {
+      "id": "b1bd902b-d472-44b6-92fd-7797228d2df8",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/ry",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 323
     },
     {
+      "id": "38920f0f-2f2e-4a04-9134-a4ba90d0828e",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scale",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 324
     },
     {
+      "id": "03f5ae2b-bbb4-4d13-99e2-25554ebf1307",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 325
     },
     {
+      "id": "191ad1f1-e0a4-48fe-b428-9c072d0545b9",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-block-end",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 326
     },
     {
+      "id": "8f00cb6f-d55e-4bc0-b8fa-b5cbf3eb2074",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-block-start",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 327
     },
     {
+      "id": "b77319f3-2a7f-4954-9041-7b8962af7d41",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-bottom",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 328
     },
     {
+      "id": "60c97fa6-09c5-4ce7-b6e0-600c3107f5f6",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-inline-end",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 329
     },
     {
+      "id": "b8b845bb-c1ed-4c51-a5a7-d48909f10035",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-inline-start",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 330
     },
     {
+      "id": "45ea5559-4bc2-4e25-ab7f-4c52b52c1b4f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-left",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 331
     },
     {
+      "id": "5627704c-c6ae-463e-8cde-0caa393948ef",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-right",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 332
     },
     {
+      "id": "b386adbf-f1a7-420c-ab15-e654017d7d26",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-top",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 333
     },
     {
+      "id": "207562b3-6541-4bdb-81c1-a90fc4f15089",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-block-end",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 334
     },
     {
+      "id": "f9774df4-118e-4e68-a6ba-217f45db3f6d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-block-start",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 335
     },
     {
+      "id": "72418911-c492-4005-9b6a-b6d679942792",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-bottom",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 336
     },
     {
+      "id": "2dc475d5-f9bc-40b3-9caa-258d3b6d362e",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-inline-end",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 337
     },
     {
+      "id": "425c9202-b6ba-4160-8cd6-56735e76ea28",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-inline-start",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 338
     },
     {
+      "id": "784c7558-a9e5-4eb0-aa6d-48837020cf51",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-left",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 339
     },
     {
+      "id": "4a65ade0-af9c-4a8a-b845-552dfa30dce6",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-right",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 340
     },
     {
+      "id": "179f8d85-98f2-4d00-812d-9b131a430dab",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-top",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 341
     },
     {
+      "id": "7b08e0f1-22e3-4cbc-ab03-ea336a72a902",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-align",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 342
     },
     {
+      "id": "0ed49cbc-3f96-446c-8165-af06a01752b0",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-stop",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 343
     },
     {
+      "id": "ccae1217-bce7-4981-86bc-e516a691487a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 344
     },
     {
+      "id": "1f71b2c9-9033-4704-a1ec-7763d86afe2d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-timeline-axis",
-      "initialValue": "block"
+      "initialValue": "block",
+      "order": 345
     },
     {
+      "id": "fd8ab9d1-a000-45ea-b036-4b9484d75809",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-timeline-name",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 346
     },
     {
+      "id": "e6a87d8c-a460-41da-b520-2cd04076aec5",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scrollbar-color",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 347
     },
     {
+      "id": "62ac114b-9b1f-49ce-92d3-79fd62c92c4e",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scrollbar-gutter",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 348
     },
     {
+      "id": "848f1170-b9ac-44e0-b5c9-c6c6c84f72de",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/scrollbar-width",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 349
     },
     {
+      "id": "7c31cf74-b01d-41b5-bd42-b284a1b11a65",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/shape-image-threshold",
-      "initialValue": "0.0"
+      "initialValue": "0.0",
+      "order": 350
     },
     {
+      "id": "ef0e753b-76af-4520-9293-565f4d4e50be",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/shape-margin",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 351
     },
     {
+      "id": "3ceb7c91-e35a-44ad-8123-043473a6c24e",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/shape-outside",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 352
     },
     {
+      "id": "c51dde4e-1edc-4426-9a35-374647245f23",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/shape-rendering",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 353
     },
     {
+      "id": "a43ab753-9e59-4c64-bac8-367e39fdd855",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/speak-as",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 354
     },
     {
+      "id": "db58f5b7-8fb8-483c-bdae-b219a5adc9d3",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stop-color",
-      "initialValue": "black"
+      "initialValue": "black",
+      "order": 355
     },
     {
+      "id": "a8692efb-a462-49ac-8d65-f5fef4300bff",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stop-opacity",
-      "initialValue": "black"
+      "initialValue": "black",
+      "order": 356
     },
     {
+      "id": "63fee240-856f-4aac-bf04-7e53150feb31",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-dasharray",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 357
     },
     {
+      "id": "b66c6ff4-e4e2-4166-9f04-50387535d30b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-dashoffset",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 358
     },
     {
+      "id": "8f18e8c6-e63f-4f17-bcea-0eb18dc0e1f1",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-linecap",
-      "initialValue": "butt"
+      "initialValue": "butt",
+      "order": 359
     },
     {
+      "id": "24bd59a5-9a73-4443-9754-fc0d208218dd",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-linejoin",
-      "initialValue": "miter"
+      "initialValue": "miter",
+      "order": 360
     },
     {
+      "id": "a4ac3ed2-8e9a-4139-8382-bba01300f468",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-miterlimit",
-      "initialValue": "4"
+      "initialValue": "4",
+      "order": 361
     },
     {
+      "id": "da92a708-b01a-4be7-a6be-3085a23a84e2",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-opacity",
-      "initialValue": "1"
+      "initialValue": "1",
+      "order": 362
     },
     {
+      "id": "e55d4317-3b7e-403f-8ea2-e6b99c787bfa",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/stroke-width",
-      "initialValue": "1px"
+      "initialValue": "1px",
+      "order": 363
     },
     {
+      "id": "3ce3bcd0-137d-4435-a248-d26d77909792",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/tab-size",
-      "initialValue": "8"
+      "initialValue": "8",
+      "order": 364
     },
     {
+      "id": "f15a6050-ffef-4424-8db7-e9feee838ed1",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 365
     },
     {
+      "id": "aa9a26cf-a292-47d4-9148-533ba21a22b4",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-align-last",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 366
     },
     {
+      "id": "9693ecea-d408-441c-85bb-213ca56067e6",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-anchor",
-      "initialValue": "start"
+      "initialValue": "start",
+      "order": 367
     },
     {
+      "id": "da9a9fb2-78a9-4cc5-bbce-5255017b7ba9",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-box",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 368
     },
     {
+      "id": "0f1938a5-b66b-4c59-91c9-8f6eaa474f95",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-box-edge",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 369
     },
     {
+      "id": "8344e318-3dd8-42c3-a987-ccb5e1b6386a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-box-trim",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 370
     },
     {
+      "id": "d0e15ba5-cc4b-4b07-adc8-9fdf86f89d01",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-combine-upright",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 371
     },
     {
+      "id": "b678924c-35b3-4f7f-9328-9014d463c768",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 372
     },
     {
+      "id": "31e2b8ba-0ece-4651-b160-8f97778db9fc",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 373
     },
     {
+      "id": "a9824bc8-9ec4-4619-849a-efba2060414c",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip",
-      "initialValue": "objects"
+      "initialValue": "objects",
+      "order": 374
     },
     {
+      "id": "43e603ce-76c3-4d7e-8440-669fdceaaa62",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip-ink",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 375
     },
     {
+      "id": "6af49d1a-0d3f-4b27-9f1c-7581d15481c7",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style",
-      "initialValue": "solid"
+      "initialValue": "solid",
+      "order": 376
     },
     {
+      "id": "8c787c0b-b8c4-457e-bfa5-5cf5cd1f4282",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-thickness",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 377
     },
     {
+      "id": "50819649-49b8-402e-b930-ee0da8a9ceda",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-color",
-      "initialValue": "currentcolor"
+      "initialValue": "currentcolor",
+      "order": 378
     },
     {
+      "id": "c2fa47f9-5873-48f5-9a75-74ba4baf8713",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-position",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 379
     },
     {
+      "id": "168b3a37-281b-470b-9129-48cbb465f415",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-style",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 380
     },
     {
+      "id": "eb2ec265-a6f3-4487-9937-cfa1f8592d41",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-indent",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 381
     },
     {
+      "id": "e78ec5dd-72b2-4e4b-b796-fea7b162dc2d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-justify",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 382
     },
     {
+      "id": "912084f7-b33f-49bf-8759-015b3d69a166",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-orientation",
-      "initialValue": "mixed"
+      "initialValue": "mixed",
+      "order": 383
     },
     {
+      "id": "8f041e9b-39e9-415f-a974-c61f530786fa",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow",
-      "initialValue": "clip"
+      "initialValue": "clip",
+      "order": 384
     },
     {
+      "id": "8dc91b83-adea-45b7-82ba-1de766b971ae",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 385
     },
     {
+      "id": "d71537e4-8caa-4ae2-b623-b38b1e693d51",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 386
     },
     {
+      "id": "535f43f3-5fb2-48dd-9d9c-60c0919ae411",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-spacing-trim",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 387
     },
     {
+      "id": "2253911e-beef-4316-b324-26f0c4bcc518",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 388
     },
     {
+      "id": "ab0fb49c-3a5b-4a8f-978a-43eb33ed29ae",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 389
     },
     {
+      "id": "c964f694-9a6c-4838-ba5c-f067407df12b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-position",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 390
     },
     {
+      "id": "42471c0b-dfaa-4ff4-ab0a-1a6eb443a794",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap",
-      "initialValue": "wrap"
+      "initialValue": "wrap",
+      "order": 391
     },
     {
+      "id": "dc01debf-2709-4e88-a10e-001d93f6eda8",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap-mode",
-      "initialValue": "wrap"
+      "initialValue": "wrap",
+      "order": 392
     },
     {
+      "id": "37c58a40-783f-497b-a404-963f535c20aa",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap-style",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 393
     },
     {
+      "id": "59f6ec40-5900-4625-a0d2-9bc62a8ce1ef",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/timeline-scope",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 394
     },
     {
+      "id": "502244e6-dbe0-4c3e-9f23-ed813a44459a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/top",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 395
     },
     {
+      "id": "360fa445-1d9e-4a0e-98e8-2cc358accdba",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/touch-action",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 396
     },
     {
+      "id": "2a1aa4ea-6f2e-4c72-9e77-d5ca563b67b1",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 397
     },
     {
+      "id": "5b0e43fc-b7d8-4a9b-b8cf-e92fe15a384d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform-box",
-      "initialValue": "view-box"
+      "initialValue": "view-box",
+      "order": 398
     },
     {
+      "id": "e1adecc1-043c-45e9-bee2-247515af4a7e",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin",
-      "initialValue": "50% 50% 0"
+      "initialValue": "50% 50% 0",
+      "order": 399
     },
     {
+      "id": "8a9f4425-2fe9-4831-924a-88913cbeca76",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform-style",
-      "initialValue": "flat"
+      "initialValue": "flat",
+      "order": 400
     },
     {
+      "id": "076ad3ec-7bef-4ba9-b021-b25a70059801",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transition-behavior",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 401
     },
     {
+      "id": "acfef820-7d69-4e42-bd4b-4ce923435aaa",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay",
-      "initialValue": "0s"
+      "initialValue": "0s",
+      "order": 402
     },
     {
+      "id": "98d593da-4d2a-4a6a-a644-e10cbb4b821a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transition-duration",
-      "initialValue": "0s"
+      "initialValue": "0s",
+      "order": 403
     },
     {
+      "id": "1f28d12f-5da5-4ec9-95fa-511c23cbcf0f",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function",
-      "initialValue": "ease"
+      "initialValue": "ease",
+      "order": 404
     },
     {
+      "id": "6bcccf65-7185-408a-a521-70cea62bad44",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/translate",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 405
     },
     {
+      "id": "d29e634f-4100-48c2-93c1-bbdf52c29fef",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-bidi",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 406
     },
     {
+      "id": "38558245-ba19-4059-88f4-324712d89db1",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/user-select",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 407
     },
     {
+      "id": "e9c03e11-ba6f-4794-a458-b17f135404b1",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align",
-      "initialValue": "baseline"
+      "initialValue": "baseline",
+      "order": 408
     },
     {
+      "id": "87cff7c8-efad-4c1a-a55a-98372a7b8adf",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/view-timeline-axis",
-      "initialValue": "block"
+      "initialValue": "block",
+      "order": 409
     },
     {
+      "id": "0567655b-5f5b-4924-9b5f-37e313f5c878",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/view-timeline-inset",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 410
     },
     {
+      "id": "52a88778-caa9-46b9-b9b7-0f422caa86fa",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/view-timeline-name",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 411
     },
     {
+      "id": "1f4f1f34-a4ff-482c-ab6d-860c2131e79d",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/view-transition-class",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 412
     },
     {
+      "id": "19ddf9e3-d752-4acd-a379-83b6401b7e56",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/view-transition-name",
-      "initialValue": "none"
+      "initialValue": "none",
+      "order": 413
     },
     {
+      "id": "c7a68c33-8657-4782-83e8-ae3b6d10b155",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/visibility",
-      "initialValue": "visible"
+      "initialValue": "visible",
+      "order": 414
     },
     {
+      "id": "c0b17af8-d2d2-4c8f-abf7-8a357ae34355",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/white-space",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 415
     },
     {
+      "id": "9c266fe4-17ff-4330-9816-41722a64e308",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/white-space-collapse",
-      "initialValue": "collapse"
+      "initialValue": "collapse",
+      "order": 416
     },
     {
+      "id": "abcd01ed-dddc-4b60-85bc-a55584bb7daa",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/widows",
-      "initialValue": "2"
+      "initialValue": "2",
+      "order": 417
     },
     {
+      "id": "b08efbfd-cea8-4c6b-82fa-dbd46725b680",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/width",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 418
     },
     {
+      "id": "5d7ea0fb-b984-455f-9e75-eb8e2641b5e8",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/will-change",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 419
     },
     {
+      "id": "466d398a-a7de-463e-9c10-482255adc335",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/word-break",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 420
     },
     {
+      "id": "a6c41262-77be-4d87-ba89-8bbfa7ef2078",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing",
-      "initialValue": "normal"
+      "initialValue": "normal",
+      "order": 421
     },
     {
+      "id": "f3e731f4-ad05-4e90-8ab2-baac39cbfb8a",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode",
-      "initialValue": "horizontal-tb"
+      "initialValue": "horizontal-tb",
+      "order": 422
     },
     {
+      "id": "6f95d515-f01f-48b2-ae2b-3d308b931fec",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/x",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 423
     },
     {
+      "id": "72d483e4-9f16-4aa0-8c8a-147469854b27",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/y",
-      "initialValue": "0"
+      "initialValue": "0",
+      "order": 424
     },
     {
+      "id": "86dd611d-b84c-49b9-9c5d-8f7ae2b6068b",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/z-index",
-      "initialValue": "auto"
+      "initialValue": "auto",
+      "order": 425
     },
     {
+      "id": "2a12f0cb-62e6-4f7d-a9f4-5b3920f73672",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/zoom",
-      "initialValue": "1"
+      "initialValue": "1",
+      "order": 426
     }
   ]
 }
