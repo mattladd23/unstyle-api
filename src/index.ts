@@ -27,7 +27,7 @@ app.get("/api/update", (req: Request, res: Response) => {
 
 app.get("/api/get", async (_req: Request, res: Response) => {
   await prodDb.read();
-  res.json(prodDb.data?.initialValues || []);
+  res.json(prodDb.data || { initialValues: [] });
 });
 
 app.listen(port, () => {
