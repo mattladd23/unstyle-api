@@ -23,7 +23,7 @@ export const callAPI = async () => {
 
     const initialValuesObj = await visitUrls(urls, page, humanBehaviorSimulator);
 
-    await updateTempDb(initialValuesObj);    
+    await updateTempDb(initialValuesObj);
 
     await browser.close();
 }
