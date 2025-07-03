@@ -9,7 +9,7 @@
     "build": "yarn clean && tsc",
     "start": "nodemon dist/index.js",
     "lint": "eslint . --ext .ts",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "vitest",
     "clean": "rimraf dist && del-cli \"src/data/temp/*\"",
     "format": "prettier --write ."
   },
@@ -27,9 +27,11 @@
     "nodemon": "^3.1.10",
     "prettier": "^3.5.3",
     "rimraf": "^6.0.1",
+    "supertest": "^7.1.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3",
-    "typescript-eslint": "^8.31.0"
+    "typescript-eslint": "^8.31.0",
+    "vitest": "^3.2.4"
   },
   "dependencies": {
     "cors": "^2.8.5",
