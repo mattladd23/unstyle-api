@@ -27,7 +27,7 @@ The Node.js/TypeScript web scraping API that powers the unstyle.dev frontend. It
 
 - Node.js installed (ideally >v18.18.0 LTS)
 
-### Getting started
+### Getting Started
 
 1. Clone the repo using your protocol of choice.
 2. Go into the repo `cd unstyle-api`.
