@@ -19,6 +19,6 @@ The Node.js/TypeScript web scraping API that powers the unstyle.dev frontend. It
 - Puppeteer
 - Vitest
 
-:cloud: See [unstyle-lambda](https://github.com/mattladd23/unstyle-lambda) for the full AWS Tech Stack
+:cloud: See [unstyle-lambda](https://github.com/mattladd23/unstyle-lambda) for Unstyle's full AWS Tech Stack
 
 ## :computer: Develop
