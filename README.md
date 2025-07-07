@@ -1,6 +1,6 @@
 # Unstyle API
 
-The Node.js/TypeScript web scraping API that powers the unstyle.dev frontend. It uses Puppeteer to scrape CSS initialValues from the MDN Web Docs and returns them as a structured JSON payload.
+The Node.js/TypeScript web scraping API that powers the unstyle.dev frontend. It uses Puppeteer to scrape CSS initial values from the MDN Web Docs and returns them as a structured JSON payload.
 
 :fist: See [unstyle-frontend](https://github.com/mattladd23/unstyle-frontend) for Unstyle's motivation and purpose!
 
