@@ -45,8 +45,8 @@ export const visitUrls = async (
             });
         }
         console.log(`Visited ${numUrlsVisited} URLs, resolved ${order} initial values.\n`);
-        if (numUrlsVisited >= urls.length) { break; }
-        // if (numUrlsVisited >= 5) { break; }
+        // if (numUrlsVisited >= urls.length) { break; }
+        if (numUrlsVisited >= 5) { break; }
     }
 
     describeUrls(numUrlsVisited, order, urlsWithNoValuesTable, urlsWithNoInitialValue, urlsWithMultipleInitialValues);
