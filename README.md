@@ -22,3 +22,21 @@ The Node.js/TypeScript web scraping API that powers the unstyle.dev frontend. It
 :cloud: See [unstyle-lambda](https://github.com/mattladd23/unstyle-lambda) for Unstyle's full AWS Tech Stack
 
 ## :computer: Develop
+
+### Prerequisites
+
+- Node.js installed (ideally >v18.18.0 LTS)
+
+### Getting started
+
+1. Clone the repo using your protocol of choice.
+2. Go into the repo `cd unstyle-api`.
+3. Install Yarn globally `npm install --global yarn`.
+4. Install Node.js dependencies `yarn install`.
+5. Run the local development server `yarn dev`.
+6. Go to [http://localhost:3001/api/get](http://localhost:3001/api/get) to get full output.
+7. Go to [http://localhost:3001/api/update](http://localhost:3001/api/update) to create a test json output.
+8. (optional) clean tree and remove redundant test files `yarn clean`.
+9. Build TypeScript code for production `yarn build`.
+10. Test production JavaScript code in the browser `yarn start`.
+11. Run Vitest for unit and integration testing `yarn test`.
