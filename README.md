@@ -32,7 +32,7 @@ The Node.js/TypeScript web scraping API that powers [unstyle.dev](https://unstyl
 
 ### Prerequisites
 
-- Node.js installed (ideally >v18.18.0 LTS)
+- Node.js installed (ideally >v20.18.0 LTS)
 
 ### Getting Started
 
