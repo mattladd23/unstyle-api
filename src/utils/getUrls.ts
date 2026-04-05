@@ -3,24 +3,16 @@ import { Page } from "puppeteer";
 export const getUrls = async (
     page: Page,
     baseSelector: string,
-    toggleSelector: string,
-    firstChildSelector: string,
     baseUrl: string,
   ): Promise<string[]> => {
     const urlPaths = await page.$$eval(
       baseSelector,
-      (links, toggleSelector, firstChildSelector) => {
+      (links, baseSelector) => {
         return links.map(link => {
-          if (link.classList.contains("toggle")) {
-            const els = Array.from(link.querySelectorAll(toggleSelector));
-            return els.map(el => el.getAttribute("href"));
-          } else {
-            return link.querySelector(firstChildSelector)?.getAttribute("href");
-          }
+          return link.querySelector(baseSelector)?.getAttribute("href");
         });
       },
-      toggleSelector,
-      firstChildSelector
+      baseSelector
     );
   
     const flattenedUrls = urlPaths.flat().filter((url): url is string => url !== null);

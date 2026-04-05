@@ -7,19 +7,26 @@ import { updateTempDb } from "../data/db.js";
 
 export const callAPI = async () => {
     const { browser, page } = await launchBrowser();
+
+    console.log("browser launched");
+
     const humanBehaviorSimulator = new HumanBehaviorSimulator(page);
 
+    console.log("humanised");
+
     await page.goto(startPage.startingUrl);
+
+    console.log(startPage.startingUrl);
 
     await humanBehaviorSimulator.simulateRandomBehavior();
 
     const urls = await getUrls(
         page,
         startPage.baseSelector,
-        startPage.toggleSelector,
-        startPage.firstChildSelector,
         startPage.baseUrl
     );
+
+    console.log(urls);
 
     const initialValuesObj = await visitUrls(urls, page, humanBehaviorSimulator);
 
