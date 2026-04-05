@@ -6,8 +6,6 @@ export class Page implements IPage {
         private readonly _baseUrl: string,
         private readonly _startingUrl: string,
         private readonly _baseSelector: string,
-        private readonly _toggleSelector: string,
-        private readonly _firstChildSelector: string
     ) {}
 
     get baseUrl() {
@@ -22,21 +20,11 @@ export class Page implements IPage {
         return this._baseSelector;
     }
 
-    get toggleSelector() {
-        return this._toggleSelector;
-    }
-
-    get firstChildSelector() {
-        return this._firstChildSelector;
-    }
-
     toJSON() {
         return {
             baseUrl: this._baseUrl,
             startingUrl: this._startingUrl,
-            baseSelector: this._baseSelector,
-            toggleSelector: this._toggleSelector,
-            firstChildSelector: this._firstChildSelector
+            baseSelector: this._baseSelector
         };
     }
 }
