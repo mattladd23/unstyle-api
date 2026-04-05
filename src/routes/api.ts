@@ -8,15 +8,9 @@ import { updateTempDb } from "../data/db.js";
 export const callAPI = async () => {
     const { browser, page } = await launchBrowser();
 
-    console.log("browser launched");
-
     const humanBehaviorSimulator = new HumanBehaviorSimulator(page);
 
-    console.log("humanised");
-
     await page.goto(startPage.startingUrl);
-
-    console.log(startPage.startingUrl);
 
     await humanBehaviorSimulator.simulateRandomBehavior();
 
@@ -25,8 +19,6 @@ export const callAPI = async () => {
         startPage.baseSelector,
         startPage.baseUrl
     );
-
-    console.log(urls);
 
     const initialValuesObj = await visitUrls(urls, page, humanBehaviorSimulator);
 
