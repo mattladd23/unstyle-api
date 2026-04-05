@@ -5,15 +5,10 @@ export const getUrls = async (
     baseSelector: string,
     baseUrl: string,
   ): Promise<string[]> => {
-    const urlPaths = await page.$$eval(
-      baseSelector,
-      (links, baseSelector) => {
-        return links.map(link => {
-          return link.querySelector(baseSelector)?.getAttribute("href");
-        });
-      },
-      baseSelector
-    );
+    
+    const urlPaths = await page.$$eval(baseSelector, urlPaths => {
+      return urlPaths.map(path => path.getAttribute('href'));
+    });
   
     const flattenedUrls = urlPaths.flat().filter((url): url is string => url !== null);
 
