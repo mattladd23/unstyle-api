@@ -32,7 +32,8 @@
     "supertest": "^7.2.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3",
-    "typescript-eslint": "^8.31.0"
+    "typescript-eslint": "^8.31.0",
+    "vitest": "4.1.11"
   },
   "dependencies": {
     "cors": "^2.8.5",
@@ -40,8 +41,7 @@
     "express": "^4.17.1",
     "lowdb": "^7.0.1",
     "path-to-regexp": "0.1.13",
-    "uuid": "^11.1.0",
-    "vitest": "4.1.8"
+    "uuid": "^11.1.0"
   },
   "engines": {
     "node": "22 || 24 || 26"
