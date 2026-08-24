@@ -21,17 +21,19 @@
     "@types/cors": "^2.8.18",
     "@types/express": "^4.17.1",
     "@types/supertest": "^6.0.3",
-    "concurrently": "^9.1.2",
+    "concurrently": "^9.2.4",
     "del-cli": "^6.0.0",
-    "eslint": "^9.25.1",
+    "eslint": "^10.8.1",
     "globals": "^16.0.0",
     "nodemon": "^3.1.10",
     "prettier": "^3.5.3",
+    "puppeteer": "^25.8.0",
     "rimraf": "^6.0.1",
-    "supertest": "^7.1.1",
+    "supertest": "^7.2.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3",
-    "typescript-eslint": "^8.31.0"
+    "typescript-eslint": "^8.67.0",
+    "vitest": "4.1.11"
   },
   "dependencies": {
     "cors": "^2.8.5",
@@ -39,12 +41,16 @@
     "express": "^4.17.1",
     "lowdb": "^7.0.1",
     "path-to-regexp": "0.1.13",
-    "puppeteer": "^24.7.2",
-    "uuid": "^11.1.0",
-    "vitest": "4.1.8"
+    "uuid": "^11.1.0"
   },
   "engines": {
     "node": "22 || 24 || 26"
   },
-  "packageManager": "pnpm@10.34.1+sha512.b58fbde6dca66a929538021581f648b4570b6ca19b18e7cbd7f2c07a7b24454155388dacdf08f2af3678e88a6d1fe04f9d609df24bf51735a060ea041b374ab7"
+  "packageManager": "pnpm@10.34.1+sha512.b58fbde6dca66a929538021581f648b4570b6ca19b18e7cbd7f2c07a7b24454155388dacdf08f2af3678e88a6d1fe04f9d609df24bf51735a060ea041b374ab7",
+  "pnpm": {
+    "overrides": {
+      "form-data": ">=4.0.6",
+      "brace-expansion": ">=5.0.7"
+    }
+  }
 }
